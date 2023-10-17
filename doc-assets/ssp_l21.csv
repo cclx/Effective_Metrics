@@ -1,0 +1,50 @@
+epoch	1
+Training Loss	578.8842741545192
+Valid. Loss	11.118199193799818
+Training Time	0:28:53
+Validation Time	0:03:01
+epoch	2
+Training Loss	4.237643039676378
+Valid. Loss	1.2446227121997524
+Training Time	0:28:45
+Validation Time	0:03:02
+epoch	3
+Training Loss	0.5905473105187686
+Valid. Loss	0.29602453052192124
+Training Time	0:28:56
+Validation Time	0:03:01
+epoch	4
+Training Loss	0.18565641739458408
+Valid. Loss	0.14676961146697803
+Training Time	0:28:54
+Validation Time	0:03:02
+epoch	5
+Training Loss	0.11686132257839418
+Valid. Loss	0.11343918141682406
+Training Time	0:28:46
+Validation Time	0:02:59
+epoch	6
+Training Loss	0.10011439023152838
+Valid. Loss	0.10268478110633991
+Training Time	0:28:43
+Validation Time	0:02:59
+epoch	7
+Training Loss	0.09421290611321072
+Valid. Loss	0.09785168990492821
+Training Time	0:28:44
+Validation Time	0:02:59
+epoch	8
+Training Loss	0.09135581118880577
+Valid. Loss	0.09575857222080231
+Training Time	0:28:54
+Validation Time	0:03:02
+epoch	9
+Training Loss	0.08920984926088801
+Valid. Loss	0.09462247955033908
+Training Time	0:28:57
+Validation Time	0:03:01
+epoch	10
+Training Loss	0.08757002579153708
+Valid. Loss	0.09431209576291007
+Training Time	0:28:47
+Validation Time	0:03:02
