@@ -1,0 +1,4 @@
+From https://www.mediafire.com/file/qs9x98jvh7cs0yl/plug-in_unit.zip/file Download the plug-in unit.zip file and extract it to the Measuring and Fine-tuning directories.
+
+python 3.7
+pytorch
