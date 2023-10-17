@@ -1,0 +1,210 @@
+epoch	1
+Training Loss	0.49659
+Valid. Loss	0.41273
+Valid. Matthews.	0.54143
+Training Time	0:01:28
+Validation Time	0:00:02
+Seed	1
+epoch	2
+Training Loss	0.27537
+Valid. Loss	0.36691
+Valid. Matthews.	0.64049
+Training Time	0:02:27
+Validation Time	0:00:03
+Seed	1
+epoch	3
+Training Loss	0.14678
+Valid. Loss	0.49409
+Valid. Matthews.	0.63989
+Training Time	0:02:46
+Validation Time	0:00:03
+Seed	1
+epoch	1
+Training Loss	0.47156
+Valid. Loss	0.36534
+Valid. Matthews.	0.61499
+Training Time	0:02:42
+Validation Time	0:00:04
+Seed	5
+epoch	2
+Training Loss	0.24858
+Valid. Loss	0.32986
+Valid. Matthews.	0.68970
+Training Time	0:02:50
+Validation Time	0:00:03
+Seed	5
+epoch	3
+Training Loss	0.12625
+Valid. Loss	0.43989
+Valid. Matthews.	0.66543
+Training Time	0:02:51
+Validation Time	0:00:03
+Seed	5
+epoch	1
+Training Loss	0.47097
+Valid. Loss	0.35534
+Valid. Matthews.	0.63298
+Training Time	0:02:46
+Validation Time	0:00:03
+Seed	9
+epoch	2
+Training Loss	0.27176
+Valid. Loss	0.31825
+Valid. Matthews.	0.66146
+Training Time	0:02:50
+Validation Time	0:00:03
+Seed	9
+epoch	3
+Training Loss	0.14773
+Valid. Loss	0.44329
+Valid. Matthews.	0.63590
+Training Time	0:02:52
+Validation Time	0:00:03
+Seed	9
+epoch	1
+Training Loss	0.46772
+Valid. Loss	0.35760
+Valid. Matthews.	0.62245
+Training Time	0:02:46
+Validation Time	0:00:03
+Seed	13
+epoch	2
+Training Loss	0.25588
+Valid. Loss	0.34708
+Valid. Matthews.	0.63823
+Training Time	0:02:51
+Validation Time	0:00:03
+Seed	13
+epoch	3
+Training Loss	0.12760
+Valid. Loss	0.47915
+Valid. Matthews.	0.63666
+Training Time	0:02:51
+Validation Time	0:00:03
+Seed	13
+epoch	1
+Training Loss	0.50374
+Valid. Loss	0.35524
+Valid. Matthews.	0.63551
+Training Time	0:02:47
+Validation Time	0:00:03
+Seed	17
+epoch	2
+Training Loss	0.27237
+Valid. Loss	0.42110
+Valid. Matthews.	0.56467
+Training Time	0:02:52
+Validation Time	0:00:03
+Seed	17
+epoch	3
+Training Loss	0.13361
+Valid. Loss	0.48423
+Valid. Matthews.	0.63005
+Training Time	0:02:52
+Validation Time	0:00:04
+Seed	17
+epoch	1
+Training Loss	0.48730
+Valid. Loss	0.35734
+Valid. Matthews.	0.61680
+Training Time	0:02:47
+Validation Time	0:00:03
+Seed	21
+epoch	2
+Training Loss	0.29057
+Valid. Loss	0.35689
+Valid. Matthews.	0.67007
+Training Time	0:02:51
+Validation Time	0:00:04
+Seed	21
+epoch	3
+Training Loss	0.16574
+Valid. Loss	0.43967
+Valid. Matthews.	0.63095
+Training Time	0:02:52
+Validation Time	0:00:03
+Seed	21
+epoch	1
+Training Loss	0.48929
+Valid. Loss	0.36444
+Valid. Matthews.	0.60824
+Training Time	0:02:46
+Validation Time	0:00:04
+Seed	25
+epoch	2
+Training Loss	0.26888
+Valid. Loss	0.40902
+Valid. Matthews.	0.61245
+Training Time	0:02:51
+Validation Time	0:00:04
+Seed	25
+epoch	3
+Training Loss	0.14534
+Valid. Loss	0.45755
+Valid. Matthews.	0.63405
+Training Time	0:02:52
+Validation Time	0:00:04
+Seed	25
+epoch	1
+Training Loss	0.47760
+Valid. Loss	0.42777
+Valid. Matthews.	0.56064
+Training Time	0:02:46
+Validation Time	0:00:03
+Seed	29
+epoch	2
+Training Loss	0.27921
+Valid. Loss	0.38092
+Valid. Matthews.	0.61293
+Training Time	0:02:52
+Validation Time	0:00:03
+Seed	29
+epoch	3
+Training Loss	0.17293
+Valid. Loss	0.46739
+Valid. Matthews.	0.59083
+Training Time	0:02:52
+Validation Time	0:00:03
+Seed	29
+epoch	1
+Training Loss	0.47435
+Valid. Loss	0.40134
+Valid. Matthews.	0.57601
+Training Time	0:02:47
+Validation Time	0:00:03
+Seed	33
+epoch	2
+Training Loss	0.27421
+Valid. Loss	0.40936
+Valid. Matthews.	0.60466
+Training Time	0:02:52
+Validation Time	0:00:03
+Seed	33
+epoch	3
+Training Loss	0.16147
+Valid. Loss	0.46792
+Valid. Matthews.	0.63494
+Training Time	0:02:52
+Validation Time	0:00:03
+Seed	33
+epoch	1
+Training Loss	0.50054
+Valid. Loss	0.39569
+Valid. Matthews.	0.59226
+Training Time	0:02:47
+Validation Time	0:00:04
+Seed	37
+epoch	2
+Training Loss	0.27531
+Valid. Loss	0.36549
+Valid. Matthews.	0.66853
+Training Time	0:02:51
+Validation Time	0:00:04
+Seed	37
+epoch	3
+Training Loss	0.15634
+Valid. Loss	0.45254
+Valid. Matthews.	0.63628
+Training Time	0:02:53
+Validation Time	0:00:03
+Seed	37

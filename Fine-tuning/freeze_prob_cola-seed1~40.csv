@@ -1,0 +1,7500 @@
+Layer	0
+epoch	1
+Training Loss	63.22487
+Training Prob Loss	6.19903
+Training Cola Loss	0.51883
+Valid. Loss	63.22487
+Valid. Matthews.	0.51721
+Training Time	0:02:45
+Validation Time	0:00:06
+Seed	1
+Layer	0
+epoch	2
+Training Loss	46.65127
+Training Prob Loss	5.32200
+Training Cola Loss	0.34081
+Valid. Loss	46.65127
+Valid. Matthews.	0.57633
+Training Time	0:03:13
+Validation Time	0:00:06
+Seed	1
+Layer	0
+epoch	3
+Training Loss	46.02731
+Training Prob Loss	4.86220
+Training Cola Loss	0.24393
+Valid. Loss	46.02731
+Valid. Matthews.	0.58023
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	1
+Layer	0
+epoch	1
+Training Loss	62.84227
+Training Prob Loss	6.23756
+Training Cola Loss	0.49356
+Valid. Loss	62.84227
+Valid. Matthews.	0.61979
+Training Time	0:03:21
+Validation Time	0:00:07
+Seed	5
+Layer	0
+epoch	2
+Training Loss	46.72807
+Training Prob Loss	5.26853
+Training Cola Loss	0.27183
+Valid. Loss	46.72807
+Valid. Matthews.	0.66812
+Training Time	0:03:27
+Validation Time	0:00:07
+Seed	5
+Layer	0
+epoch	3
+Training Loss	46.10847
+Training Prob Loss	4.80211
+Training Cola Loss	0.14950
+Valid. Loss	46.10847
+Valid. Matthews.	0.65559
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	5
+Layer	0
+epoch	1
+Training Loss	49.34451
+Training Prob Loss	6.20990
+Training Cola Loss	0.50674
+Valid. Loss	49.34451
+Valid. Matthews.	0.60800
+Training Time	0:03:25
+Validation Time	0:00:07
+Seed	9
+Layer	0
+epoch	2
+Training Loss	47.14215
+Training Prob Loss	5.12864
+Training Cola Loss	0.29801
+Valid. Loss	47.14215
+Valid. Matthews.	0.63550
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	9
+Layer	0
+epoch	3
+Training Loss	46.43290
+Training Prob Loss	4.73041
+Training Cola Loss	0.15899
+Valid. Loss	46.43290
+Valid. Matthews.	0.63353
+Training Time	0:03:31
+Validation Time	0:00:07
+Seed	9
+Layer	0
+epoch	1
+Training Loss	63.73155
+Training Prob Loss	6.12221
+Training Cola Loss	0.50606
+Valid. Loss	63.73155
+Valid. Matthews.	0.47143
+Training Time	0:03:20
+Validation Time	0:00:08
+Seed	13
+Layer	0
+epoch	2
+Training Loss	47.47787
+Training Prob Loss	5.05477
+Training Cola Loss	0.28133
+Valid. Loss	47.47787
+Valid. Matthews.	0.60082
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	13
+Layer	0
+epoch	3
+Training Loss	46.54265
+Training Prob Loss	4.69689
+Training Cola Loss	0.14459
+Valid. Loss	46.54265
+Valid. Matthews.	0.60164
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	13
+Layer	0
+epoch	1
+Training Loss	62.74056
+Training Prob Loss	6.35004
+Training Cola Loss	0.48111
+Valid. Loss	62.74056
+Valid. Matthews.	0.63811
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	17
+Layer	0
+epoch	2
+Training Loss	46.57756
+Training Prob Loss	5.29306
+Training Cola Loss	0.26987
+Valid. Loss	46.57756
+Valid. Matthews.	0.59119
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	17
+Layer	0
+epoch	3
+Training Loss	46.01849
+Training Prob Loss	4.82424
+Training Cola Loss	0.13294
+Valid. Loss	46.01849
+Valid. Matthews.	0.59815
+Training Time	0:03:26
+Validation Time	0:00:07
+Seed	17
+Layer	0
+epoch	1
+Training Loss	63.20488
+Training Prob Loss	6.28331
+Training Cola Loss	0.49753
+Valid. Loss	63.20488
+Valid. Matthews.	0.52915
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	21
+Layer	0
+epoch	2
+Training Loss	46.74675
+Training Prob Loss	5.23847
+Training Cola Loss	0.27196
+Valid. Loss	46.74675
+Valid. Matthews.	0.60402
+Training Time	0:03:28
+Validation Time	0:00:07
+Seed	21
+Layer	0
+epoch	3
+Training Loss	46.10936
+Training Prob Loss	4.80299
+Training Cola Loss	0.13132
+Valid. Loss	46.10936
+Valid. Matthews.	0.60734
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	21
+Layer	0
+epoch	1
+Training Loss	63.24330
+Training Prob Loss	6.26885
+Training Cola Loss	0.49119
+Valid. Loss	63.24330
+Valid. Matthews.	0.55306
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	25
+Layer	0
+epoch	2
+Training Loss	46.73407
+Training Prob Loss	5.29393
+Training Cola Loss	0.28203
+Valid. Loss	46.73407
+Valid. Matthews.	0.61446
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	25
+Layer	0
+epoch	3
+Training Loss	46.15667
+Training Prob Loss	4.77970
+Training Cola Loss	0.15007
+Valid. Loss	46.15667
+Valid. Matthews.	0.60821
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	25
+Layer	0
+epoch	1
+Training Loss	63.68555
+Training Prob Loss	6.20586
+Training Cola Loss	0.50466
+Valid. Loss	63.68555
+Valid. Matthews.	0.52011
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	29
+Layer	0
+epoch	2
+Training Loss	47.12565
+Training Prob Loss	5.22581
+Training Cola Loss	0.27153
+Valid. Loss	47.12565
+Valid. Matthews.	0.61834
+Training Time	0:03:27
+Validation Time	0:00:07
+Seed	29
+Layer	0
+epoch	3
+Training Loss	46.43029
+Training Prob Loss	4.80375
+Training Cola Loss	0.13637
+Valid. Loss	46.43029
+Valid. Matthews.	0.59613
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	29
+Layer	0
+epoch	1
+Training Loss	63.31863
+Training Prob Loss	6.22803
+Training Cola Loss	0.49292
+Valid. Loss	63.31863
+Valid. Matthews.	0.63264
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	33
+Layer	0
+epoch	2
+Training Loss	46.62897
+Training Prob Loss	5.28847
+Training Cola Loss	0.28584
+Valid. Loss	46.62897
+Valid. Matthews.	0.66172
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	33
+Layer	0
+epoch	3
+Training Loss	46.07949
+Training Prob Loss	4.83873
+Training Cola Loss	0.14468
+Valid. Loss	46.07949
+Valid. Matthews.	0.63523
+Training Time	0:03:28
+Validation Time	0:00:07
+Seed	33
+Layer	0
+epoch	1
+Training Loss	63.17714
+Training Prob Loss	6.21281
+Training Cola Loss	0.48845
+Valid. Loss	63.17714
+Valid. Matthews.	0.62156
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	37
+Layer	0
+epoch	2
+Training Loss	46.73450
+Training Prob Loss	5.25198
+Training Cola Loss	0.27008
+Valid. Loss	46.73450
+Valid. Matthews.	0.61829
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	37
+Layer	0
+epoch	3
+Training Loss	45.88298
+Training Prob Loss	4.81114
+Training Cola Loss	0.13711
+Valid. Loss	45.88298
+Valid. Matthews.	0.64909
+Training Time	0:03:27
+Validation Time	0:00:07
+Seed	37
+Layer	1
+epoch	1
+Training Loss	10.60977
+Training Prob Loss	0.27266
+Training Cola Loss	0.50900
+Valid. Loss	10.60977
+Valid. Matthews.	0.59547
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	1
+Layer	1
+epoch	2
+Training Loss	8.43089
+Training Prob Loss	0.06551
+Training Cola Loss	0.30068
+Valid. Loss	8.43089
+Valid. Matthews.	0.59561
+Training Time	0:03:28
+Validation Time	0:00:07
+Seed	1
+Layer	1
+epoch	3
+Training Loss	7.28660
+Training Prob Loss	0.05517
+Training Cola Loss	0.17316
+Valid. Loss	7.28660
+Valid. Matthews.	0.60199
+Training Time	0:03:26
+Validation Time	0:00:07
+Seed	1
+Layer	1
+epoch	1
+Training Loss	11.13436
+Training Prob Loss	0.26785
+Training Cola Loss	0.48799
+Valid. Loss	11.13436
+Valid. Matthews.	0.56422
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	5
+Layer	1
+epoch	2
+Training Loss	9.15467
+Training Prob Loss	0.06595
+Training Cola Loss	0.45180
+Valid. Loss	9.15467
+Valid. Matthews.	0.10626
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	5
+Layer	1
+epoch	3
+Training Loss	8.43775
+Training Prob Loss	0.06104
+Training Cola Loss	0.29334
+Valid. Loss	8.43775
+Valid. Matthews.	0.63958
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	5
+Layer	1
+epoch	1
+Training Loss	12.03322
+Training Prob Loss	0.28322
+Training Cola Loss	0.50346
+Valid. Loss	12.03322
+Valid. Matthews.	0.55528
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	9
+Layer	1
+epoch	2
+Training Loss	8.12393
+Training Prob Loss	0.06485
+Training Cola Loss	0.30968
+Valid. Loss	8.12393
+Valid. Matthews.	0.67846
+Training Time	0:03:27
+Validation Time	0:00:07
+Seed	9
+Layer	1
+epoch	3
+Training Loss	7.08504
+Training Prob Loss	0.05434
+Training Cola Loss	0.18301
+Valid. Loss	7.08504
+Valid. Matthews.	0.65353
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	9
+Layer	1
+epoch	1
+Training Loss	10.51624
+Training Prob Loss	0.27121
+Training Cola Loss	0.50640
+Valid. Loss	10.51624
+Valid. Matthews.	0.61172
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	13
+Layer	1
+epoch	2
+Training Loss	7.51682
+Training Prob Loss	0.06228
+Training Cola Loss	0.29166
+Valid. Loss	7.51682
+Valid. Matthews.	0.63094
+Training Time	0:03:29
+Validation Time	0:00:06
+Seed	13
+Layer	1
+epoch	3
+Training Loss	6.76585
+Training Prob Loss	0.05133
+Training Cola Loss	0.15842
+Valid. Loss	6.76585
+Valid. Matthews.	0.64621
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	13
+Layer	1
+epoch	1
+Training Loss	11.90456
+Training Prob Loss	0.26321
+Training Cola Loss	0.47968
+Valid. Loss	11.90456
+Valid. Matthews.	0.63836
+Training Time	0:03:19
+Validation Time	0:00:07
+Seed	17
+Layer	1
+epoch	2
+Training Loss	8.74568
+Training Prob Loss	0.06668
+Training Cola Loss	0.28900
+Valid. Loss	8.74568
+Valid. Matthews.	0.61482
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	17
+Layer	1
+epoch	3
+Training Loss	7.74713
+Training Prob Loss	0.05836
+Training Cola Loss	0.16494
+Valid. Loss	7.74713
+Valid. Matthews.	0.65975
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	17
+Layer	1
+epoch	1
+Training Loss	10.86521
+Training Prob Loss	0.27265
+Training Cola Loss	0.50292
+Valid. Loss	10.86521
+Valid. Matthews.	0.59273
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	21
+Layer	1
+epoch	2
+Training Loss	9.32248
+Training Prob Loss	0.06893
+Training Cola Loss	0.36144
+Valid. Loss	9.32248
+Valid. Matthews.	0.57327
+Training Time	0:03:28
+Validation Time	0:00:07
+Seed	21
+Layer	1
+epoch	3
+Training Loss	8.32347
+Training Prob Loss	0.06353
+Training Cola Loss	0.24059
+Valid. Loss	8.32347
+Valid. Matthews.	0.61250
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	21
+Layer	1
+epoch	1
+Training Loss	12.36526
+Training Prob Loss	0.27443
+Training Cola Loss	0.51578
+Valid. Loss	12.36526
+Valid. Matthews.	0.04234
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	25
+Layer	1
+epoch	2
+Training Loss	7.10371
+Training Prob Loss	0.06300
+Training Cola Loss	0.61834
+Valid. Loss	7.10371
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	25
+Layer	1
+epoch	3
+Training Loss	6.23020
+Training Prob Loss	0.04775
+Training Cola Loss	0.61918
+Valid. Loss	6.23020
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	25
+Layer	1
+epoch	1
+Training Loss	9.46593
+Training Prob Loss	0.27579
+Training Cola Loss	0.50286
+Valid. Loss	9.46593
+Valid. Matthews.	0.44753
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	29
+Layer	1
+epoch	2
+Training Loss	8.44157
+Training Prob Loss	0.06547
+Training Cola Loss	0.29488
+Valid. Loss	8.44157
+Valid. Matthews.	0.59687
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	29
+Layer	1
+epoch	3
+Training Loss	7.01944
+Training Prob Loss	0.05347
+Training Cola Loss	0.16940
+Valid. Loss	7.01944
+Valid. Matthews.	0.63952
+Training Time	0:03:26
+Validation Time	0:00:07
+Seed	29
+Layer	1
+epoch	1
+Training Loss	11.45387
+Training Prob Loss	0.28575
+Training Cola Loss	0.50020
+Valid. Loss	11.45387
+Valid. Matthews.	0.52104
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	33
+Layer	1
+epoch	2
+Training Loss	7.86360
+Training Prob Loss	0.06484
+Training Cola Loss	0.31755
+Valid. Loss	7.86360
+Valid. Matthews.	0.65417
+Training Time	0:03:25
+Validation Time	0:00:07
+Seed	33
+Layer	1
+epoch	3
+Training Loss	6.84200
+Training Prob Loss	0.05242
+Training Cola Loss	0.18578
+Valid. Loss	6.84200
+Valid. Matthews.	0.65443
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	33
+Layer	1
+epoch	1
+Training Loss	11.74079
+Training Prob Loss	0.26449
+Training Cola Loss	0.49713
+Valid. Loss	11.74079
+Valid. Matthews.	0.56813
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	37
+Layer	1
+epoch	2
+Training Loss	8.29476
+Training Prob Loss	0.06590
+Training Cola Loss	0.29681
+Valid. Loss	8.29476
+Valid. Matthews.	0.58433
+Training Time	0:03:25
+Validation Time	0:00:07
+Seed	37
+Layer	1
+epoch	3
+Training Loss	7.00837
+Training Prob Loss	0.05414
+Training Cola Loss	0.15478
+Valid. Loss	7.00837
+Valid. Matthews.	0.59363
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	37
+Layer	2
+epoch	1
+Training Loss	1.96437
+Training Prob Loss	0.09947
+Training Cola Loss	0.50671
+Valid. Loss	1.96437
+Valid. Matthews.	0.62060
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	1
+Layer	2
+epoch	2
+Training Loss	1.14351
+Training Prob Loss	0.03022
+Training Cola Loss	0.28615
+Valid. Loss	1.14351
+Valid. Matthews.	0.62025
+Training Time	0:03:25
+Validation Time	0:00:07
+Seed	1
+Layer	2
+epoch	3
+Training Loss	1.02366
+Training Prob Loss	0.02092
+Training Cola Loss	0.15335
+Valid. Loss	1.02366
+Valid. Matthews.	0.65580
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	1
+Layer	2
+epoch	1
+Training Loss	1.79348
+Training Prob Loss	0.10567
+Training Cola Loss	0.50934
+Valid. Loss	1.79348
+Valid. Matthews.	0.61175
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	2
+epoch	2
+Training Loss	1.03939
+Training Prob Loss	0.02695
+Training Cola Loss	0.29616
+Valid. Loss	1.03939
+Valid. Matthews.	0.64929
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	5
+Layer	2
+epoch	3
+Training Loss	1.01099
+Training Prob Loss	0.02271
+Training Cola Loss	0.15980
+Valid. Loss	1.01099
+Valid. Matthews.	0.62979
+Training Time	0:03:27
+Validation Time	0:00:07
+Seed	5
+Layer	2
+epoch	1
+Training Loss	1.85963
+Training Prob Loss	0.10975
+Training Cola Loss	0.50342
+Valid. Loss	1.85963
+Valid. Matthews.	0.62284
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	9
+Layer	2
+epoch	2
+Training Loss	1.11522
+Training Prob Loss	0.02910
+Training Cola Loss	0.30176
+Valid. Loss	1.11522
+Valid. Matthews.	0.63222
+Training Time	0:03:27
+Validation Time	0:00:07
+Seed	9
+Layer	2
+epoch	3
+Training Loss	0.96721
+Training Prob Loss	0.02022
+Training Cola Loss	0.16187
+Valid. Loss	0.96721
+Valid. Matthews.	0.66933
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	9
+Layer	2
+epoch	1
+Training Loss	1.65571
+Training Prob Loss	0.09650
+Training Cola Loss	0.62433
+Valid. Loss	1.65571
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	13
+Layer	2
+epoch	2
+Training Loss	1.11084
+Training Prob Loss	0.02262
+Training Cola Loss	0.61767
+Valid. Loss	1.11084
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	13
+Layer	2
+epoch	3
+Training Loss	1.06511
+Training Prob Loss	0.01567
+Training Cola Loss	0.61571
+Valid. Loss	1.06511
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	13
+Layer	2
+epoch	1
+Training Loss	1.61003
+Training Prob Loss	0.10468
+Training Cola Loss	0.52362
+Valid. Loss	1.61003
+Valid. Matthews.	0.62650
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	17
+Layer	2
+epoch	2
+Training Loss	1.10959
+Training Prob Loss	0.03182
+Training Cola Loss	0.33016
+Valid. Loss	1.10959
+Valid. Matthews.	0.55521
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	17
+Layer	2
+epoch	3
+Training Loss	1.03687
+Training Prob Loss	0.02223
+Training Cola Loss	0.19217
+Valid. Loss	1.03687
+Valid. Matthews.	0.61249
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	17
+Layer	2
+epoch	1
+Training Loss	1.93383
+Training Prob Loss	0.09924
+Training Cola Loss	0.48619
+Valid. Loss	1.93383
+Valid. Matthews.	0.56942
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	21
+Layer	2
+epoch	2
+Training Loss	1.11146
+Training Prob Loss	0.03246
+Training Cola Loss	0.26613
+Valid. Loss	1.11146
+Valid. Matthews.	0.59745
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	21
+Layer	2
+epoch	3
+Training Loss	1.08402
+Training Prob Loss	0.02257
+Training Cola Loss	0.13153
+Valid. Loss	1.08402
+Valid. Matthews.	0.64565
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	21
+Layer	2
+epoch	1
+Training Loss	1.84333
+Training Prob Loss	0.10817
+Training Cola Loss	0.51711
+Valid. Loss	1.84333
+Valid. Matthews.	0.60833
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	25
+Layer	2
+epoch	2
+Training Loss	0.97056
+Training Prob Loss	0.03082
+Training Cola Loss	0.32392
+Valid. Loss	0.97056
+Valid. Matthews.	0.61145
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	25
+Layer	2
+epoch	3
+Training Loss	0.95016
+Training Prob Loss	0.02252
+Training Cola Loss	0.17731
+Valid. Loss	0.95016
+Valid. Matthews.	0.62580
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	25
+Layer	2
+epoch	1
+Training Loss	1.65704
+Training Prob Loss	0.09841
+Training Cola Loss	0.51607
+Valid. Loss	1.65704
+Valid. Matthews.	0.55399
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	29
+Layer	2
+epoch	2
+Training Loss	1.00433
+Training Prob Loss	0.03199
+Training Cola Loss	0.29335
+Valid. Loss	1.00433
+Valid. Matthews.	0.64390
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	29
+Layer	2
+epoch	3
+Training Loss	0.97528
+Training Prob Loss	0.02310
+Training Cola Loss	0.15951
+Valid. Loss	0.97528
+Valid. Matthews.	0.67534
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	29
+Layer	2
+epoch	1
+Training Loss	1.49371
+Training Prob Loss	0.09606
+Training Cola Loss	0.50592
+Valid. Loss	1.49371
+Valid. Matthews.	0.56643
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	33
+Layer	2
+epoch	2
+Training Loss	0.92796
+Training Prob Loss	0.02639
+Training Cola Loss	0.29651
+Valid. Loss	0.92796
+Valid. Matthews.	0.68096
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	33
+Layer	2
+epoch	3
+Training Loss	0.95608
+Training Prob Loss	0.02048
+Training Cola Loss	0.16163
+Valid. Loss	0.95608
+Valid. Matthews.	0.66404
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	33
+Layer	2
+epoch	1
+Training Loss	1.84011
+Training Prob Loss	0.09758
+Training Cola Loss	0.60895
+Valid. Loss	1.84011
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	37
+Layer	2
+epoch	2
+Training Loss	1.21602
+Training Prob Loss	0.02442
+Training Cola Loss	0.61795
+Valid. Loss	1.21602
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	37
+Layer	2
+epoch	3
+Training Loss	1.07689
+Training Prob Loss	0.01915
+Training Cola Loss	0.61723
+Valid. Loss	1.07689
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	37
+Layer	3
+epoch	1
+Training Loss	0.97619
+Training Prob Loss	0.05224
+Training Cola Loss	0.51367
+Valid. Loss	0.97619
+Valid. Matthews.	0.60638
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	1
+Layer	3
+epoch	2
+Training Loss	0.67320
+Training Prob Loss	0.02363
+Training Cola Loss	0.31630
+Valid. Loss	0.67320
+Valid. Matthews.	0.59103
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	1
+Layer	3
+epoch	3
+Training Loss	0.73067
+Training Prob Loss	0.01881
+Training Cola Loss	0.17968
+Valid. Loss	0.73067
+Valid. Matthews.	0.58719
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	1
+Layer	3
+epoch	1
+Training Loss	0.92416
+Training Prob Loss	0.05282
+Training Cola Loss	0.50810
+Valid. Loss	0.92416
+Valid. Matthews.	0.58565
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	5
+Layer	3
+epoch	2
+Training Loss	0.69944
+Training Prob Loss	0.02210
+Training Cola Loss	0.30966
+Valid. Loss	0.69944
+Valid. Matthews.	0.62189
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	5
+Layer	3
+epoch	3
+Training Loss	0.69109
+Training Prob Loss	0.01785
+Training Cola Loss	0.17301
+Valid. Loss	0.69109
+Valid. Matthews.	0.65709
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	5
+Layer	3
+epoch	1
+Training Loss	0.83514
+Training Prob Loss	0.05092
+Training Cola Loss	0.50692
+Valid. Loss	0.83514
+Valid. Matthews.	0.62154
+Training Time	0:03:20
+Validation Time	0:00:07
+Seed	9
+Layer	3
+epoch	2
+Training Loss	0.64945
+Training Prob Loss	0.02072
+Training Cola Loss	0.30177
+Valid. Loss	0.64945
+Valid. Matthews.	0.67690
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	9
+Layer	3
+epoch	3
+Training Loss	0.70305
+Training Prob Loss	0.01697
+Training Cola Loss	0.14858
+Valid. Loss	0.70305
+Valid. Matthews.	0.65534
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	9
+Layer	3
+epoch	1
+Training Loss	1.00549
+Training Prob Loss	0.04907
+Training Cola Loss	0.61125
+Valid. Loss	1.00549
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	13
+Layer	3
+epoch	2
+Training Loss	0.76580
+Training Prob Loss	0.01486
+Training Cola Loss	0.61631
+Valid. Loss	0.76580
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	13
+Layer	3
+epoch	3
+Training Loss	0.74314
+Training Prob Loss	0.00955
+Training Cola Loss	0.61887
+Valid. Loss	0.74314
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	13
+Layer	3
+epoch	1
+Training Loss	0.79195
+Training Prob Loss	0.05123
+Training Cola Loss	0.48503
+Valid. Loss	0.79195
+Valid. Matthews.	0.65906
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	17
+Layer	3
+epoch	2
+Training Loss	0.68199
+Training Prob Loss	0.02072
+Training Cola Loss	0.28719
+Valid. Loss	0.68199
+Valid. Matthews.	0.60383
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	17
+Layer	3
+epoch	3
+Training Loss	0.75901
+Training Prob Loss	0.01670
+Training Cola Loss	0.14592
+Valid. Loss	0.75901
+Valid. Matthews.	0.65180
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	17
+Layer	3
+epoch	1
+Training Loss	0.88401
+Training Prob Loss	0.05384
+Training Cola Loss	0.49863
+Valid. Loss	0.88401
+Valid. Matthews.	0.57820
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	21
+Layer	3
+epoch	2
+Training Loss	0.64275
+Training Prob Loss	0.02320
+Training Cola Loss	0.31619
+Valid. Loss	0.64275
+Valid. Matthews.	0.64278
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	21
+Layer	3
+epoch	3
+Training Loss	0.70588
+Training Prob Loss	0.01831
+Training Cola Loss	0.18655
+Valid. Loss	0.70588
+Valid. Matthews.	0.66342
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	21
+Layer	3
+epoch	1
+Training Loss	1.07645
+Training Prob Loss	0.05253
+Training Cola Loss	0.54282
+Valid. Loss	1.07645
+Valid. Matthews.	0.00729
+Training Time	0:03:19
+Validation Time	0:00:07
+Seed	25
+Layer	3
+epoch	2
+Training Loss	0.90371
+Training Prob Loss	0.02305
+Training Cola Loss	0.61636
+Valid. Loss	0.90371
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	25
+Layer	3
+epoch	3
+Training Loss	0.86084
+Training Prob Loss	0.01739
+Training Cola Loss	0.62030
+Valid. Loss	0.86084
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	25
+Layer	3
+epoch	1
+Training Loss	0.84541
+Training Prob Loss	0.04956
+Training Cola Loss	0.50053
+Valid. Loss	0.84541
+Valid. Matthews.	0.58221
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	29
+Layer	3
+epoch	2
+Training Loss	0.63611
+Training Prob Loss	0.02171
+Training Cola Loss	0.27088
+Valid. Loss	0.63611
+Valid. Matthews.	0.64424
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	29
+Layer	3
+epoch	3
+Training Loss	0.72571
+Training Prob Loss	0.01841
+Training Cola Loss	0.14468
+Valid. Loss	0.72571
+Valid. Matthews.	0.61974
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	29
+Layer	3
+epoch	1
+Training Loss	0.85879
+Training Prob Loss	0.05139
+Training Cola Loss	0.51265
+Valid. Loss	0.85879
+Valid. Matthews.	0.53146
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	33
+Layer	3
+epoch	2
+Training Loss	0.72057
+Training Prob Loss	0.02163
+Training Cola Loss	0.34702
+Valid. Loss	0.72057
+Valid. Matthews.	0.62554
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	33
+Layer	3
+epoch	3
+Training Loss	0.68841
+Training Prob Loss	0.01784
+Training Cola Loss	0.23897
+Valid. Loss	0.68841
+Valid. Matthews.	0.61164
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	33
+Layer	3
+epoch	1
+Training Loss	0.79282
+Training Prob Loss	0.05286
+Training Cola Loss	0.49237
+Valid. Loss	0.79282
+Valid. Matthews.	0.55897
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	37
+Layer	3
+epoch	2
+Training Loss	0.60544
+Training Prob Loss	0.02401
+Training Cola Loss	0.28557
+Valid. Loss	0.60544
+Valid. Matthews.	0.60349
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	37
+Layer	3
+epoch	3
+Training Loss	0.68106
+Training Prob Loss	0.01939
+Training Cola Loss	0.14716
+Valid. Loss	0.68106
+Valid. Matthews.	0.62536
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	37
+Layer	4
+epoch	1
+Training Loss	0.74966
+Training Prob Loss	0.04783
+Training Cola Loss	0.50664
+Valid. Loss	0.74966
+Valid. Matthews.	0.63242
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	1
+Layer	4
+epoch	2
+Training Loss	0.61522
+Training Prob Loss	0.01699
+Training Cola Loss	0.28854
+Valid. Loss	0.61522
+Valid. Matthews.	0.59896
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	1
+Layer	4
+epoch	3
+Training Loss	0.67509
+Training Prob Loss	0.01284
+Training Cola Loss	0.15286
+Valid. Loss	0.67509
+Valid. Matthews.	0.60173
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	1
+Layer	4
+epoch	1
+Training Loss	0.75170
+Training Prob Loss	0.05018
+Training Cola Loss	0.50665
+Valid. Loss	0.75170
+Valid. Matthews.	0.58347
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	5
+Layer	4
+epoch	2
+Training Loss	0.59980
+Training Prob Loss	0.01933
+Training Cola Loss	0.30197
+Valid. Loss	0.59980
+Valid. Matthews.	0.66515
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	4
+epoch	3
+Training Loss	0.68275
+Training Prob Loss	0.01475
+Training Cola Loss	0.16360
+Valid. Loss	0.68275
+Valid. Matthews.	0.62961
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	4
+epoch	1
+Training Loss	0.66456
+Training Prob Loss	0.05092
+Training Cola Loss	0.50467
+Valid. Loss	0.66456
+Valid. Matthews.	0.59257
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	9
+Layer	4
+epoch	2
+Training Loss	0.59030
+Training Prob Loss	0.01701
+Training Cola Loss	0.32181
+Valid. Loss	0.59030
+Valid. Matthews.	0.62744
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	9
+Layer	4
+epoch	3
+Training Loss	0.63374
+Training Prob Loss	0.01293
+Training Cola Loss	0.17118
+Valid. Loss	0.63374
+Valid. Matthews.	0.63932
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	9
+Layer	4
+epoch	1
+Training Loss	0.91033
+Training Prob Loss	0.05082
+Training Cola Loss	0.50337
+Valid. Loss	0.91033
+Valid. Matthews.	0.54168
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	13
+Layer	4
+epoch	2
+Training Loss	0.68865
+Training Prob Loss	0.01992
+Training Cola Loss	0.29132
+Valid. Loss	0.68865
+Valid. Matthews.	0.59648
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	13
+Layer	4
+epoch	3
+Training Loss	0.66301
+Training Prob Loss	0.01516
+Training Cola Loss	0.15732
+Valid. Loss	0.66301
+Valid. Matthews.	0.61458
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	13
+Layer	4
+epoch	1
+Training Loss	0.71354
+Training Prob Loss	0.05107
+Training Cola Loss	0.48087
+Valid. Loss	0.71354
+Valid. Matthews.	0.60816
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	17
+Layer	4
+epoch	2
+Training Loss	0.61458
+Training Prob Loss	0.01968
+Training Cola Loss	0.28016
+Valid. Loss	0.61458
+Valid. Matthews.	0.62144
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	17
+Layer	4
+epoch	3
+Training Loss	0.66132
+Training Prob Loss	0.01533
+Training Cola Loss	0.14496
+Valid. Loss	0.66132
+Valid. Matthews.	0.66400
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	17
+Layer	4
+epoch	1
+Training Loss	0.82859
+Training Prob Loss	0.05367
+Training Cola Loss	0.56943
+Valid. Loss	0.82859
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	21
+Layer	4
+epoch	2
+Training Loss	0.77026
+Training Prob Loss	0.01836
+Training Cola Loss	0.61649
+Valid. Loss	0.77026
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	21
+Layer	4
+epoch	3
+Training Loss	0.75225
+Training Prob Loss	0.01210
+Training Cola Loss	0.61541
+Valid. Loss	0.75225
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	21
+Layer	4
+epoch	1
+Training Loss	0.66062
+Training Prob Loss	0.04880
+Training Cola Loss	0.49153
+Valid. Loss	0.66062
+Valid. Matthews.	0.56884
+Training Time	0:03:19
+Validation Time	0:00:07
+Seed	25
+Layer	4
+epoch	2
+Training Loss	0.59412
+Training Prob Loss	0.01809
+Training Cola Loss	0.28589
+Valid. Loss	0.59412
+Valid. Matthews.	0.68756
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	25
+Layer	4
+epoch	3
+Training Loss	0.65441
+Training Prob Loss	0.01378
+Training Cola Loss	0.14757
+Valid. Loss	0.65441
+Valid. Matthews.	0.66839
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	25
+Layer	4
+epoch	1
+Training Loss	0.77479
+Training Prob Loss	0.05270
+Training Cola Loss	0.52073
+Valid. Loss	0.77479
+Valid. Matthews.	0.58704
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	29
+Layer	4
+epoch	2
+Training Loss	0.59041
+Training Prob Loss	0.02172
+Training Cola Loss	0.30821
+Valid. Loss	0.59041
+Valid. Matthews.	0.64049
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	29
+Layer	4
+epoch	3
+Training Loss	0.65216
+Training Prob Loss	0.01729
+Training Cola Loss	0.16539
+Valid. Loss	0.65216
+Valid. Matthews.	0.64848
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	29
+Layer	4
+epoch	1
+Training Loss	0.85593
+Training Prob Loss	0.05211
+Training Cola Loss	0.61708
+Valid. Loss	0.85593
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	33
+Layer	4
+epoch	2
+Training Loss	0.71070
+Training Prob Loss	0.01425
+Training Cola Loss	0.61515
+Valid. Loss	0.71070
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	33
+Layer	4
+epoch	3
+Training Loss	0.73223
+Training Prob Loss	0.00944
+Training Cola Loss	0.61650
+Valid. Loss	0.73223
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	33
+Layer	4
+epoch	1
+Training Loss	0.70869
+Training Prob Loss	0.04854
+Training Cola Loss	0.49548
+Valid. Loss	0.70869
+Valid. Matthews.	0.62326
+Training Time	0:03:19
+Validation Time	0:00:07
+Seed	37
+Layer	4
+epoch	2
+Training Loss	0.59942
+Training Prob Loss	0.01788
+Training Cola Loss	0.27764
+Valid. Loss	0.59942
+Valid. Matthews.	0.61127
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	37
+Layer	4
+epoch	3
+Training Loss	0.68833
+Training Prob Loss	0.01394
+Training Cola Loss	0.13902
+Valid. Loss	0.68833
+Valid. Matthews.	0.62984
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	37
+Layer	5
+epoch	1
+Training Loss	0.50202
+Training Prob Loss	0.03842
+Training Cola Loss	0.49538
+Valid. Loss	0.50202
+Valid. Matthews.	0.63869
+Training Time	0:03:18
+Validation Time	0:00:07
+Seed	1
+Layer	5
+epoch	2
+Training Loss	0.49767
+Training Prob Loss	0.01987
+Training Cola Loss	0.27248
+Valid. Loss	0.49767
+Valid. Matthews.	0.61671
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	1
+Layer	5
+epoch	3
+Training Loss	0.56594
+Training Prob Loss	0.01674
+Training Cola Loss	0.13448
+Valid. Loss	0.56594
+Valid. Matthews.	0.61202
+Training Time	0:03:21
+Validation Time	0:00:07
+Seed	1
+Layer	5
+epoch	1
+Training Loss	0.49327
+Training Prob Loss	0.03820
+Training Cola Loss	0.51024
+Valid. Loss	0.49327
+Valid. Matthews.	0.58700
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	5
+Layer	5
+epoch	2
+Training Loss	0.45207
+Training Prob Loss	0.02023
+Training Cola Loss	0.29048
+Valid. Loss	0.45207
+Valid. Matthews.	0.66033
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	5
+Layer	5
+epoch	3
+Training Loss	0.53905
+Training Prob Loss	0.01716
+Training Cola Loss	0.15115
+Valid. Loss	0.53905
+Valid. Matthews.	0.64574
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	5
+epoch	1
+Training Loss	0.54092
+Training Prob Loss	0.03951
+Training Cola Loss	0.49241
+Valid. Loss	0.54092
+Valid. Matthews.	0.61720
+Training Time	0:03:16
+Validation Time	0:00:06
+Seed	9
+Layer	5
+epoch	2
+Training Loss	0.46785
+Training Prob Loss	0.02023
+Training Cola Loss	0.28248
+Valid. Loss	0.46785
+Valid. Matthews.	0.64386
+Training Time	0:03:17
+Validation Time	0:00:07
+Seed	9
+Layer	5
+epoch	3
+Training Loss	0.54483
+Training Prob Loss	0.01715
+Training Cola Loss	0.13901
+Valid. Loss	0.54483
+Valid. Matthews.	0.64320
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	9
+Layer	5
+epoch	1
+Training Loss	0.60819
+Training Prob Loss	0.03903
+Training Cola Loss	0.49662
+Valid. Loss	0.60819
+Valid. Matthews.	0.52805
+Training Time	0:03:17
+Validation Time	0:00:06
+Seed	13
+Layer	5
+epoch	2
+Training Loss	0.53276
+Training Prob Loss	0.02057
+Training Cola Loss	0.28105
+Valid. Loss	0.53276
+Valid. Matthews.	0.62242
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	13
+Layer	5
+epoch	3
+Training Loss	0.54219
+Training Prob Loss	0.01667
+Training Cola Loss	0.14726
+Valid. Loss	0.54219
+Valid. Matthews.	0.66096
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	13
+Layer	5
+epoch	1
+Training Loss	0.56286
+Training Prob Loss	0.03951
+Training Cola Loss	0.47504
+Valid. Loss	0.56286
+Valid. Matthews.	0.55151
+Training Time	0:03:16
+Validation Time	0:00:06
+Seed	17
+Layer	5
+epoch	2
+Training Loss	0.49807
+Training Prob Loss	0.02074
+Training Cola Loss	0.26165
+Valid. Loss	0.49807
+Valid. Matthews.	0.61625
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	17
+Layer	5
+epoch	3
+Training Loss	0.56753
+Training Prob Loss	0.01727
+Training Cola Loss	0.12956
+Valid. Loss	0.56753
+Valid. Matthews.	0.63956
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	17
+Layer	5
+epoch	1
+Training Loss	0.53546
+Training Prob Loss	0.03912
+Training Cola Loss	0.47841
+Valid. Loss	0.53546
+Valid. Matthews.	0.56577
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	21
+Layer	5
+epoch	2
+Training Loss	0.47945
+Training Prob Loss	0.02054
+Training Cola Loss	0.25991
+Valid. Loss	0.47945
+Valid. Matthews.	0.59105
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	21
+Layer	5
+epoch	3
+Training Loss	0.56014
+Training Prob Loss	0.01704
+Training Cola Loss	0.13391
+Valid. Loss	0.56014
+Valid. Matthews.	0.64184
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	21
+Layer	5
+epoch	1
+Training Loss	0.52171
+Training Prob Loss	0.03919
+Training Cola Loss	0.48767
+Valid. Loss	0.52171
+Valid. Matthews.	0.62356
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	25
+Layer	5
+epoch	2
+Training Loss	0.49880
+Training Prob Loss	0.02007
+Training Cola Loss	0.27466
+Valid. Loss	0.49880
+Valid. Matthews.	0.62761
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	25
+Layer	5
+epoch	3
+Training Loss	0.57915
+Training Prob Loss	0.01652
+Training Cola Loss	0.14615
+Valid. Loss	0.57915
+Valid. Matthews.	0.65104
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	25
+Layer	5
+epoch	1
+Training Loss	0.52323
+Training Prob Loss	0.03942
+Training Cola Loss	0.52270
+Valid. Loss	0.52323
+Valid. Matthews.	0.53392
+Training Time	0:03:17
+Validation Time	0:00:07
+Seed	29
+Layer	5
+epoch	2
+Training Loss	0.47111
+Training Prob Loss	0.01997
+Training Cola Loss	0.31825
+Valid. Loss	0.47111
+Valid. Matthews.	0.63438
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	29
+Layer	5
+epoch	3
+Training Loss	0.53319
+Training Prob Loss	0.01688
+Training Cola Loss	0.18223
+Valid. Loss	0.53319
+Valid. Matthews.	0.62735
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	29
+Layer	5
+epoch	1
+Training Loss	0.52750
+Training Prob Loss	0.03942
+Training Cola Loss	0.49457
+Valid. Loss	0.52750
+Valid. Matthews.	0.63111
+Training Time	0:03:15
+Validation Time	0:00:07
+Seed	33
+Layer	5
+epoch	2
+Training Loss	0.45973
+Training Prob Loss	0.02047
+Training Cola Loss	0.28960
+Valid. Loss	0.45973
+Valid. Matthews.	0.65039
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	33
+Layer	5
+epoch	3
+Training Loss	0.55107
+Training Prob Loss	0.01739
+Training Cola Loss	0.16027
+Valid. Loss	0.55107
+Valid. Matthews.	0.63827
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	33
+Layer	5
+epoch	1
+Training Loss	0.57114
+Training Prob Loss	0.03938
+Training Cola Loss	0.48349
+Valid. Loss	0.57114
+Valid. Matthews.	0.57267
+Training Time	0:03:17
+Validation Time	0:00:07
+Seed	37
+Layer	5
+epoch	2
+Training Loss	0.51039
+Training Prob Loss	0.02109
+Training Cola Loss	0.26319
+Valid. Loss	0.51039
+Valid. Matthews.	0.59620
+Training Time	0:03:20
+Validation Time	0:00:07
+Seed	37
+Layer	5
+epoch	3
+Training Loss	0.57647
+Training Prob Loss	0.01780
+Training Cola Loss	0.13401
+Valid. Loss	0.57647
+Valid. Matthews.	0.63108
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	37
+Layer	6
+epoch	1
+Training Loss	0.93689
+Training Prob Loss	0.04118
+Training Cola Loss	0.61216
+Valid. Loss	0.93689
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:07
+Seed	1
+Layer	6
+epoch	2
+Training Loss	0.88787
+Training Prob Loss	0.01207
+Training Cola Loss	0.61699
+Valid. Loss	0.88787
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	1
+Layer	6
+epoch	3
+Training Loss	0.84294
+Training Prob Loss	0.01021
+Training Cola Loss	0.61321
+Valid. Loss	0.84294
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	1
+Layer	6
+epoch	1
+Training Loss	0.75609
+Training Prob Loss	0.04021
+Training Cola Loss	0.52610
+Valid. Loss	0.75609
+Valid. Matthews.	0.60617
+Training Time	0:03:19
+Validation Time	0:00:07
+Seed	5
+Layer	6
+epoch	2
+Training Loss	0.61093
+Training Prob Loss	0.01640
+Training Cola Loss	0.32404
+Valid. Loss	0.61093
+Valid. Matthews.	0.65751
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	5
+Layer	6
+epoch	3
+Training Loss	0.70832
+Training Prob Loss	0.01393
+Training Cola Loss	0.17217
+Valid. Loss	0.70832
+Valid. Matthews.	0.65129
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	5
+Layer	6
+epoch	1
+Training Loss	0.82664
+Training Prob Loss	0.04372
+Training Cola Loss	0.51815
+Valid. Loss	0.82664
+Valid. Matthews.	0.59535
+Training Time	0:03:14
+Validation Time	0:00:06
+Seed	9
+Layer	6
+epoch	2
+Training Loss	0.68110
+Training Prob Loss	0.01657
+Training Cola Loss	0.34384
+Valid. Loss	0.68110
+Valid. Matthews.	0.62706
+Training Time	0:03:16
+Validation Time	0:00:06
+Seed	9
+Layer	6
+epoch	3
+Training Loss	0.71690
+Training Prob Loss	0.01437
+Training Cola Loss	0.20787
+Valid. Loss	0.71690
+Valid. Matthews.	0.60866
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	9
+Layer	6
+epoch	1
+Training Loss	1.16048
+Training Prob Loss	0.04342
+Training Cola Loss	0.51064
+Valid. Loss	1.16048
+Valid. Matthews.	0.49345
+Training Time	0:03:16
+Validation Time	0:00:06
+Seed	13
+Layer	6
+epoch	2
+Training Loss	1.02628
+Training Prob Loss	0.02006
+Training Cola Loss	0.30162
+Valid. Loss	1.02628
+Valid. Matthews.	0.57502
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	13
+Layer	6
+epoch	3
+Training Loss	1.07342
+Training Prob Loss	0.01768
+Training Cola Loss	0.16808
+Valid. Loss	1.07342
+Valid. Matthews.	0.63024
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	13
+Layer	6
+epoch	1
+Training Loss	0.66225
+Training Prob Loss	0.04010
+Training Cola Loss	0.48836
+Valid. Loss	0.66225
+Valid. Matthews.	0.59421
+Training Time	0:03:13
+Validation Time	0:00:06
+Seed	17
+Layer	6
+epoch	2
+Training Loss	0.61546
+Training Prob Loss	0.01663
+Training Cola Loss	0.30148
+Valid. Loss	0.61546
+Valid. Matthews.	0.60437
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	17
+Layer	6
+epoch	3
+Training Loss	0.64622
+Training Prob Loss	0.01410
+Training Cola Loss	0.15295
+Valid. Loss	0.64622
+Valid. Matthews.	0.66137
+Training Time	0:03:15
+Validation Time	0:00:06
+Seed	17
+Layer	6
+epoch	1
+Training Loss	1.17256
+Training Prob Loss	0.04399
+Training Cola Loss	0.48551
+Valid. Loss	1.17256
+Valid. Matthews.	0.49175
+Training Time	0:03:17
+Validation Time	0:00:06
+Seed	21
+Layer	6
+epoch	2
+Training Loss	0.94936
+Training Prob Loss	0.01989
+Training Cola Loss	0.28055
+Valid. Loss	0.94936
+Valid. Matthews.	0.61926
+Training Time	0:03:17
+Validation Time	0:00:06
+Seed	21
+Layer	6
+epoch	3
+Training Loss	1.09622
+Training Prob Loss	0.01753
+Training Cola Loss	0.15295
+Valid. Loss	1.09622
+Valid. Matthews.	0.60052
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	21
+Layer	6
+epoch	1
+Training Loss	0.98543
+Training Prob Loss	0.04493
+Training Cola Loss	0.49159
+Valid. Loss	0.98543
+Valid. Matthews.	0.59528
+Training Time	0:03:15
+Validation Time	0:00:06
+Seed	25
+Layer	6
+epoch	2
+Training Loss	0.90473
+Training Prob Loss	0.01973
+Training Cola Loss	0.29671
+Valid. Loss	0.90473
+Valid. Matthews.	0.66682
+Training Time	0:03:17
+Validation Time	0:00:06
+Seed	25
+Layer	6
+epoch	3
+Training Loss	0.99805
+Training Prob Loss	0.01696
+Training Cola Loss	0.16059
+Valid. Loss	0.99805
+Valid. Matthews.	0.64961
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	25
+Layer	6
+epoch	1
+Training Loss	0.72153
+Training Prob Loss	0.04226
+Training Cola Loss	0.51284
+Valid. Loss	0.72153
+Valid. Matthews.	0.54847
+Training Time	0:03:15
+Validation Time	0:00:06
+Seed	29
+Layer	6
+epoch	2
+Training Loss	0.71933
+Training Prob Loss	0.01559
+Training Cola Loss	0.28785
+Valid. Loss	0.71933
+Valid. Matthews.	0.60103
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	29
+Layer	6
+epoch	3
+Training Loss	0.74188
+Training Prob Loss	0.01353
+Training Cola Loss	0.14704
+Valid. Loss	0.74188
+Valid. Matthews.	0.64233
+Training Time	0:03:16
+Validation Time	0:00:07
+Seed	29
+Layer	6
+epoch	1
+Training Loss	1.07791
+Training Prob Loss	0.04478
+Training Cola Loss	0.51424
+Valid. Loss	1.07791
+Valid. Matthews.	0.55977
+Training Time	0:03:16
+Validation Time	0:00:07
+Seed	33
+Layer	6
+epoch	2
+Training Loss	0.99103
+Training Prob Loss	0.02020
+Training Cola Loss	0.32197
+Valid. Loss	0.99103
+Valid. Matthews.	0.65720
+Training Time	0:03:20
+Validation Time	0:00:07
+Seed	33
+Layer	6
+epoch	3
+Training Loss	1.06631
+Training Prob Loss	0.01744
+Training Cola Loss	0.17357
+Valid. Loss	1.06631
+Valid. Matthews.	0.61330
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	33
+Layer	6
+epoch	1
+Training Loss	1.04466
+Training Prob Loss	0.04268
+Training Cola Loss	0.49421
+Valid. Loss	1.04466
+Valid. Matthews.	0.62054
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	37
+Layer	6
+epoch	2
+Training Loss	1.09061
+Training Prob Loss	0.01941
+Training Cola Loss	0.28518
+Valid. Loss	1.09061
+Valid. Matthews.	0.58289
+Training Time	0:03:20
+Validation Time	0:00:07
+Seed	37
+Layer	6
+epoch	3
+Training Loss	1.10068
+Training Prob Loss	0.01709
+Training Cola Loss	0.15107
+Valid. Loss	1.10068
+Valid. Matthews.	0.62925
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	37
+Layer	7
+epoch	1
+Training Loss	0.56026
+Training Prob Loss	0.03453
+Training Cola Loss	0.51025
+Valid. Loss	0.56026
+Valid. Matthews.	0.62616
+Training Time	0:03:18
+Validation Time	0:00:07
+Seed	1
+Layer	7
+epoch	2
+Training Loss	0.50054
+Training Prob Loss	0.01261
+Training Cola Loss	0.32169
+Valid. Loss	0.50054
+Valid. Matthews.	0.55650
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	1
+Layer	7
+epoch	3
+Training Loss	0.56533
+Training Prob Loss	0.00913
+Training Cola Loss	0.17093
+Valid. Loss	0.56533
+Valid. Matthews.	0.60925
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	1
+Layer	7
+epoch	1
+Training Loss	0.56669
+Training Prob Loss	0.03650
+Training Cola Loss	0.49064
+Valid. Loss	0.56669
+Valid. Matthews.	0.62339
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	5
+Layer	7
+epoch	2
+Training Loss	0.57451
+Training Prob Loss	0.01391
+Training Cola Loss	0.28363
+Valid. Loss	0.57451
+Valid. Matthews.	0.59206
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	5
+Layer	7
+epoch	3
+Training Loss	0.65193
+Training Prob Loss	0.01052
+Training Cola Loss	0.16903
+Valid. Loss	0.65193
+Valid. Matthews.	0.62332
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	5
+Layer	7
+epoch	1
+Training Loss	0.56972
+Training Prob Loss	0.03525
+Training Cola Loss	0.51451
+Valid. Loss	0.56972
+Valid. Matthews.	0.57946
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	9
+Layer	7
+epoch	2
+Training Loss	0.45449
+Training Prob Loss	0.01149
+Training Cola Loss	0.32638
+Valid. Loss	0.45449
+Valid. Matthews.	0.65830
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	9
+Layer	7
+epoch	3
+Training Loss	0.51996
+Training Prob Loss	0.00869
+Training Cola Loss	0.17172
+Valid. Loss	0.51996
+Valid. Matthews.	0.62174
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	9
+Layer	7
+epoch	1
+Training Loss	0.54229
+Training Prob Loss	0.03406
+Training Cola Loss	0.49134
+Valid. Loss	0.54229
+Valid. Matthews.	0.58445
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	13
+Layer	7
+epoch	2
+Training Loss	0.50119
+Training Prob Loss	0.01168
+Training Cola Loss	0.27627
+Valid. Loss	0.50119
+Valid. Matthews.	0.60409
+Training Time	0:03:32
+Validation Time	0:00:07
+Seed	13
+Layer	7
+epoch	3
+Training Loss	0.50703
+Training Prob Loss	0.00807
+Training Cola Loss	0.15068
+Valid. Loss	0.50703
+Valid. Matthews.	0.64433
+Training Time	0:03:32
+Validation Time	0:00:06
+Seed	13
+Layer	7
+epoch	1
+Training Loss	0.62254
+Training Prob Loss	0.03459
+Training Cola Loss	0.52124
+Valid. Loss	0.62254
+Valid. Matthews.	0.60878
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	17
+Layer	7
+epoch	2
+Training Loss	0.51008
+Training Prob Loss	0.01369
+Training Cola Loss	0.35418
+Valid. Loss	0.51008
+Valid. Matthews.	0.63928
+Training Time	0:03:31
+Validation Time	0:00:07
+Seed	17
+Layer	7
+epoch	3
+Training Loss	0.60133
+Training Prob Loss	0.00985
+Training Cola Loss	0.20252
+Valid. Loss	0.60133
+Valid. Matthews.	0.62755
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	17
+Layer	7
+epoch	1
+Training Loss	0.63656
+Training Prob Loss	0.03354
+Training Cola Loss	0.48561
+Valid. Loss	0.63656
+Valid. Matthews.	0.54368
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	21
+Layer	7
+epoch	2
+Training Loss	0.50422
+Training Prob Loss	0.01203
+Training Cola Loss	0.28065
+Valid. Loss	0.50422
+Valid. Matthews.	0.59866
+Training Time	0:03:19
+Validation Time	0:00:07
+Seed	21
+Layer	7
+epoch	3
+Training Loss	0.54432
+Training Prob Loss	0.00850
+Training Cola Loss	0.14540
+Valid. Loss	0.54432
+Valid. Matthews.	0.62408
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	21
+Layer	7
+epoch	1
+Training Loss	0.74410
+Training Prob Loss	0.03362
+Training Cola Loss	0.58325
+Valid. Loss	0.74410
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	25
+Layer	7
+epoch	2
+Training Loss	0.67724
+Training Prob Loss	0.00729
+Training Cola Loss	0.61748
+Valid. Loss	0.67724
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	25
+Layer	7
+epoch	3
+Training Loss	0.65742
+Training Prob Loss	0.00430
+Training Cola Loss	0.61439
+Valid. Loss	0.65742
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	25
+Layer	7
+epoch	1
+Training Loss	0.61568
+Training Prob Loss	0.03405
+Training Cola Loss	0.51179
+Valid. Loss	0.61568
+Valid. Matthews.	0.54249
+Training Time	0:03:16
+Validation Time	0:00:06
+Seed	29
+Layer	7
+epoch	2
+Training Loss	0.55820
+Training Prob Loss	0.01190
+Training Cola Loss	0.28804
+Valid. Loss	0.55820
+Valid. Matthews.	0.55295
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	29
+Layer	7
+epoch	3
+Training Loss	0.60532
+Training Prob Loss	0.00830
+Training Cola Loss	0.15201
+Valid. Loss	0.60532
+Valid. Matthews.	0.60443
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	29
+Layer	7
+epoch	1
+Training Loss	0.74273
+Training Prob Loss	0.03269
+Training Cola Loss	0.60947
+Valid. Loss	0.74273
+Valid. Matthews.	0.00000
+Training Time	0:03:15
+Validation Time	0:00:06
+Seed	33
+Layer	7
+epoch	2
+Training Loss	0.66166
+Training Prob Loss	0.00667
+Training Cola Loss	0.61682
+Valid. Loss	0.66166
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	33
+Layer	7
+epoch	3
+Training Loss	0.65760
+Training Prob Loss	0.00382
+Training Cola Loss	0.61621
+Valid. Loss	0.65760
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	33
+Layer	7
+epoch	1
+Training Loss	0.66285
+Training Prob Loss	0.03456
+Training Cola Loss	0.50529
+Valid. Loss	0.66285
+Valid. Matthews.	0.53887
+Training Time	0:03:17
+Validation Time	0:00:06
+Seed	37
+Layer	7
+epoch	2
+Training Loss	0.51016
+Training Prob Loss	0.01270
+Training Cola Loss	0.30727
+Valid. Loss	0.51016
+Valid. Matthews.	0.54490
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	37
+Layer	7
+epoch	3
+Training Loss	0.57556
+Training Prob Loss	0.00946
+Training Cola Loss	0.17824
+Valid. Loss	0.57556
+Valid. Matthews.	0.58792
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	37
+Layer	8
+epoch	1
+Training Loss	0.49939
+Training Prob Loss	0.03538
+Training Cola Loss	0.50615
+Valid. Loss	0.49939
+Valid. Matthews.	0.63060
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	1
+Layer	8
+epoch	2
+Training Loss	0.53870
+Training Prob Loss	0.01475
+Training Cola Loss	0.28443
+Valid. Loss	0.53870
+Valid. Matthews.	0.58158
+Training Time	0:03:17
+Validation Time	0:00:07
+Seed	1
+Layer	8
+epoch	3
+Training Loss	0.57299
+Training Prob Loss	0.01185
+Training Cola Loss	0.14984
+Valid. Loss	0.57299
+Valid. Matthews.	0.58647
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	1
+Layer	8
+epoch	1
+Training Loss	0.67186
+Training Prob Loss	0.02951
+Training Cola Loss	0.62953
+Valid. Loss	0.67186
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	5
+Layer	8
+epoch	2
+Training Loss	0.64643
+Training Prob Loss	0.00361
+Training Cola Loss	0.61916
+Valid. Loss	0.64643
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	5
+Layer	8
+epoch	3
+Training Loss	0.63031
+Training Prob Loss	0.00213
+Training Cola Loss	0.61552
+Valid. Loss	0.63031
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	5
+Layer	8
+epoch	1
+Training Loss	0.75068
+Training Prob Loss	0.03392
+Training Cola Loss	0.59572
+Valid. Loss	0.75068
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	9
+Layer	8
+epoch	2
+Training Loss	0.63007
+Training Prob Loss	0.00471
+Training Cola Loss	0.61526
+Valid. Loss	0.63007
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	9
+Layer	8
+epoch	3
+Training Loss	0.63401
+Training Prob Loss	0.00317
+Training Cola Loss	0.61399
+Valid. Loss	0.63401
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	9
+Layer	8
+epoch	1
+Training Loss	0.54248
+Training Prob Loss	0.03520
+Training Cola Loss	0.51170
+Valid. Loss	0.54248
+Valid. Matthews.	0.48926
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	13
+Layer	8
+epoch	2
+Training Loss	0.53184
+Training Prob Loss	0.01449
+Training Cola Loss	0.30016
+Valid. Loss	0.53184
+Valid. Matthews.	0.58881
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	13
+Layer	8
+epoch	3
+Training Loss	0.57801
+Training Prob Loss	0.01173
+Training Cola Loss	0.17362
+Valid. Loss	0.57801
+Valid. Matthews.	0.58061
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	13
+Layer	8
+epoch	1
+Training Loss	0.56565
+Training Prob Loss	0.03523
+Training Cola Loss	0.48195
+Valid. Loss	0.56565
+Valid. Matthews.	0.62344
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	17
+Layer	8
+epoch	2
+Training Loss	0.48846
+Training Prob Loss	0.01436
+Training Cola Loss	0.28448
+Valid. Loss	0.48846
+Valid. Matthews.	0.59851
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	17
+Layer	8
+epoch	3
+Training Loss	0.58411
+Training Prob Loss	0.01184
+Training Cola Loss	0.14766
+Valid. Loss	0.58411
+Valid. Matthews.	0.61171
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	17
+Layer	8
+epoch	1
+Training Loss	0.60433
+Training Prob Loss	0.03598
+Training Cola Loss	0.50010
+Valid. Loss	0.60433
+Valid. Matthews.	0.54411
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	21
+Layer	8
+epoch	2
+Training Loss	0.48271
+Training Prob Loss	0.01515
+Training Cola Loss	0.29307
+Valid. Loss	0.48271
+Valid. Matthews.	0.59463
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	21
+Layer	8
+epoch	3
+Training Loss	0.58382
+Training Prob Loss	0.01219
+Training Cola Loss	0.15641
+Valid. Loss	0.58382
+Valid. Matthews.	0.60070
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	21
+Layer	8
+epoch	1
+Training Loss	0.65828
+Training Prob Loss	0.03854
+Training Cola Loss	0.52944
+Valid. Loss	0.65828
+Valid. Matthews.	0.47712
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	25
+Layer	8
+epoch	2
+Training Loss	0.47369
+Training Prob Loss	0.01645
+Training Cola Loss	0.38860
+Valid. Loss	0.47369
+Valid. Matthews.	0.60091
+Training Time	0:03:26
+Validation Time	0:00:07
+Seed	25
+Layer	8
+epoch	3
+Training Loss	0.52625
+Training Prob Loss	0.01335
+Training Cola Loss	0.28447
+Valid. Loss	0.52625
+Valid. Matthews.	0.62133
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	25
+Layer	8
+epoch	1
+Training Loss	0.55992
+Training Prob Loss	0.03673
+Training Cola Loss	0.52027
+Valid. Loss	0.55992
+Valid. Matthews.	0.48907
+Training Time	0:03:18
+Validation Time	0:00:07
+Seed	29
+Layer	8
+epoch	2
+Training Loss	0.52163
+Training Prob Loss	0.01634
+Training Cola Loss	0.29971
+Valid. Loss	0.52163
+Valid. Matthews.	0.61617
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	29
+Layer	8
+epoch	3
+Training Loss	0.52669
+Training Prob Loss	0.01340
+Training Cola Loss	0.15833
+Valid. Loss	0.52669
+Valid. Matthews.	0.63333
+Training Time	0:03:25
+Validation Time	0:00:07
+Seed	29
+Layer	8
+epoch	1
+Training Loss	0.52748
+Training Prob Loss	0.03448
+Training Cola Loss	0.50017
+Valid. Loss	0.52748
+Valid. Matthews.	0.58509
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	33
+Layer	8
+epoch	2
+Training Loss	0.49800
+Training Prob Loss	0.01464
+Training Cola Loss	0.28548
+Valid. Loss	0.49800
+Valid. Matthews.	0.65934
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	33
+Layer	8
+epoch	3
+Training Loss	0.60218
+Training Prob Loss	0.01210
+Training Cola Loss	0.16332
+Valid. Loss	0.60218
+Valid. Matthews.	0.59513
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	33
+Layer	8
+epoch	1
+Training Loss	0.51502
+Training Prob Loss	0.03524
+Training Cola Loss	0.49374
+Valid. Loss	0.51502
+Valid. Matthews.	0.61153
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	37
+Layer	8
+epoch	2
+Training Loss	0.56441
+Training Prob Loss	0.01434
+Training Cola Loss	0.28069
+Valid. Loss	0.56441
+Valid. Matthews.	0.58163
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	37
+Layer	8
+epoch	3
+Training Loss	0.60027
+Training Prob Loss	0.01151
+Training Cola Loss	0.15044
+Valid. Loss	0.60027
+Valid. Matthews.	0.63200
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	37
+Layer	9
+epoch	1
+Training Loss	0.53964
+Training Prob Loss	0.01967
+Training Cola Loss	0.53679
+Valid. Loss	0.53964
+Valid. Matthews.	0.58170
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	1
+Layer	9
+epoch	2
+Training Loss	0.52722
+Training Prob Loss	0.00889
+Training Cola Loss	0.32561
+Valid. Loss	0.52722
+Valid. Matthews.	0.61962
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	1
+Layer	9
+epoch	3
+Training Loss	0.60132
+Training Prob Loss	0.00768
+Training Cola Loss	0.17973
+Valid. Loss	0.60132
+Valid. Matthews.	0.57950
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	1
+Layer	9
+epoch	1
+Training Loss	0.56851
+Training Prob Loss	0.02034
+Training Cola Loss	0.50000
+Valid. Loss	0.56851
+Valid. Matthews.	0.63444
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	5
+Layer	9
+epoch	2
+Training Loss	0.53566
+Training Prob Loss	0.00953
+Training Cola Loss	0.28426
+Valid. Loss	0.53566
+Valid. Matthews.	0.63511
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	5
+Layer	9
+epoch	3
+Training Loss	0.61354
+Training Prob Loss	0.00785
+Training Cola Loss	0.15717
+Valid. Loss	0.61354
+Valid. Matthews.	0.63561
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	5
+Layer	9
+epoch	1
+Training Loss	0.53411
+Training Prob Loss	0.02048
+Training Cola Loss	0.50063
+Valid. Loss	0.53411
+Valid. Matthews.	0.63870
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	9
+Layer	9
+epoch	2
+Training Loss	0.52834
+Training Prob Loss	0.00893
+Training Cola Loss	0.28315
+Valid. Loss	0.52834
+Valid. Matthews.	0.62793
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	9
+Layer	9
+epoch	3
+Training Loss	0.56793
+Training Prob Loss	0.00715
+Training Cola Loss	0.15074
+Valid. Loss	0.56793
+Valid. Matthews.	0.66765
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	9
+Layer	9
+epoch	1
+Training Loss	0.57607
+Training Prob Loss	0.02092
+Training Cola Loss	0.50408
+Valid. Loss	0.57607
+Valid. Matthews.	0.53663
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	13
+Layer	9
+epoch	2
+Training Loss	0.53458
+Training Prob Loss	0.01043
+Training Cola Loss	0.29704
+Valid. Loss	0.53458
+Valid. Matthews.	0.63242
+Training Time	0:03:26
+Validation Time	0:00:07
+Seed	13
+Layer	9
+epoch	3
+Training Loss	0.59005
+Training Prob Loss	0.00868
+Training Cola Loss	0.15723
+Valid. Loss	0.59005
+Valid. Matthews.	0.64195
+Training Time	0:03:25
+Validation Time	0:00:07
+Seed	13
+Layer	9
+epoch	1
+Training Loss	0.59464
+Training Prob Loss	0.02087
+Training Cola Loss	0.49672
+Valid. Loss	0.59464
+Valid. Matthews.	0.65810
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	17
+Layer	9
+epoch	2
+Training Loss	0.55741
+Training Prob Loss	0.00960
+Training Cola Loss	0.29435
+Valid. Loss	0.55741
+Valid. Matthews.	0.63026
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	17
+Layer	9
+epoch	3
+Training Loss	0.61986
+Training Prob Loss	0.00767
+Training Cola Loss	0.16174
+Valid. Loss	0.61986
+Valid. Matthews.	0.63070
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	17
+Layer	9
+epoch	1
+Training Loss	0.61363
+Training Prob Loss	0.02018
+Training Cola Loss	0.48061
+Valid. Loss	0.61363
+Valid. Matthews.	0.56686
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	21
+Layer	9
+epoch	2
+Training Loss	0.53874
+Training Prob Loss	0.00919
+Training Cola Loss	0.26995
+Valid. Loss	0.53874
+Valid. Matthews.	0.61212
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	21
+Layer	9
+epoch	3
+Training Loss	0.60973
+Training Prob Loss	0.00742
+Training Cola Loss	0.14603
+Valid. Loss	0.60973
+Valid. Matthews.	0.64356
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	21
+Layer	9
+epoch	1
+Training Loss	0.63180
+Training Prob Loss	0.02061
+Training Cola Loss	0.49015
+Valid. Loss	0.63180
+Valid. Matthews.	0.57262
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	25
+Layer	9
+epoch	2
+Training Loss	0.54388
+Training Prob Loss	0.00911
+Training Cola Loss	0.27702
+Valid. Loss	0.54388
+Valid. Matthews.	0.65048
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	25
+Layer	9
+epoch	3
+Training Loss	0.63253
+Training Prob Loss	0.00711
+Training Cola Loss	0.15250
+Valid. Loss	0.63253
+Valid. Matthews.	0.65240
+Training Time	0:03:29
+Validation Time	0:00:06
+Seed	25
+Layer	9
+epoch	1
+Training Loss	0.63334
+Training Prob Loss	0.02014
+Training Cola Loss	0.50499
+Valid. Loss	0.63334
+Valid. Matthews.	0.49718
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	29
+Layer	9
+epoch	2
+Training Loss	0.57716
+Training Prob Loss	0.00895
+Training Cola Loss	0.29559
+Valid. Loss	0.57716
+Valid. Matthews.	0.59255
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	29
+Layer	9
+epoch	3
+Training Loss	0.59227
+Training Prob Loss	0.00713
+Training Cola Loss	0.17261
+Valid. Loss	0.59227
+Valid. Matthews.	0.62630
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	29
+Layer	9
+epoch	1
+Training Loss	0.61978
+Training Prob Loss	0.02061
+Training Cola Loss	0.49770
+Valid. Loss	0.61978
+Valid. Matthews.	0.54857
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	33
+Layer	9
+epoch	2
+Training Loss	0.56246
+Training Prob Loss	0.00882
+Training Cola Loss	0.30445
+Valid. Loss	0.56246
+Valid. Matthews.	0.65754
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	33
+Layer	9
+epoch	3
+Training Loss	0.62688
+Training Prob Loss	0.00665
+Training Cola Loss	0.17526
+Valid. Loss	0.62688
+Valid. Matthews.	0.64528
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	33
+Layer	9
+epoch	1
+Training Loss	0.63326
+Training Prob Loss	0.01990
+Training Cola Loss	0.48621
+Valid. Loss	0.63326
+Valid. Matthews.	0.54815
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	37
+Layer	9
+epoch	2
+Training Loss	0.57737
+Training Prob Loss	0.00897
+Training Cola Loss	0.27932
+Valid. Loss	0.57737
+Valid. Matthews.	0.59812
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	37
+Layer	9
+epoch	3
+Training Loss	0.61978
+Training Prob Loss	0.00710
+Training Cola Loss	0.14966
+Valid. Loss	0.61978
+Valid. Matthews.	0.63289
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	37
+Layer	10
+epoch	1
+Training Loss	0.69636
+Training Prob Loss	0.02210
+Training Cola Loss	0.63061
+Valid. Loss	0.69636
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	1
+Layer	10
+epoch	2
+Training Loss	0.65309
+Training Prob Loss	0.00114
+Training Cola Loss	0.61742
+Valid. Loss	0.65309
+Valid. Matthews.	0.00000
+Training Time	0:03:27
+Validation Time	0:00:07
+Seed	1
+Layer	10
+epoch	3
+Training Loss	0.65469
+Training Prob Loss	0.00068
+Training Cola Loss	0.61259
+Valid. Loss	0.65469
+Valid. Matthews.	0.00000
+Training Time	0:03:32
+Validation Time	0:00:07
+Seed	1
+Layer	10
+epoch	1
+Training Loss	0.60564
+Training Prob Loss	0.02521
+Training Cola Loss	0.50472
+Valid. Loss	0.60564
+Valid. Matthews.	0.64866
+Training Time	0:03:30
+Validation Time	0:00:06
+Seed	5
+Layer	10
+epoch	2
+Training Loss	0.60137
+Training Prob Loss	0.01011
+Training Cola Loss	0.28039
+Valid. Loss	0.60137
+Valid. Matthews.	0.65392
+Training Time	0:03:37
+Validation Time	0:00:07
+Seed	5
+Layer	10
+epoch	3
+Training Loss	0.63675
+Training Prob Loss	0.00849
+Training Cola Loss	0.15059
+Valid. Loss	0.63675
+Valid. Matthews.	0.69512
+Training Time	0:03:35
+Validation Time	0:00:06
+Seed	5
+Layer	10
+epoch	1
+Training Loss	0.61885
+Training Prob Loss	0.02569
+Training Cola Loss	0.51071
+Valid. Loss	0.61885
+Valid. Matthews.	0.62772
+Training Time	0:03:31
+Validation Time	0:00:07
+Seed	9
+Layer	10
+epoch	2
+Training Loss	0.60243
+Training Prob Loss	0.01034
+Training Cola Loss	0.32271
+Valid. Loss	0.60243
+Valid. Matthews.	0.63606
+Training Time	0:03:31
+Validation Time	0:00:06
+Seed	9
+Layer	10
+epoch	3
+Training Loss	0.61930
+Training Prob Loss	0.00877
+Training Cola Loss	0.20729
+Valid. Loss	0.61930
+Valid. Matthews.	0.64564
+Training Time	0:03:32
+Validation Time	0:00:06
+Seed	9
+Layer	10
+epoch	1
+Training Loss	0.72572
+Training Prob Loss	0.02642
+Training Cola Loss	0.53169
+Valid. Loss	0.72572
+Valid. Matthews.	0.50385
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	13
+Layer	10
+epoch	2
+Training Loss	0.64306
+Training Prob Loss	0.01127
+Training Cola Loss	0.33627
+Valid. Loss	0.64306
+Valid. Matthews.	0.56274
+Training Time	0:03:18
+Validation Time	0:00:07
+Seed	13
+Layer	10
+epoch	3
+Training Loss	0.65941
+Training Prob Loss	0.00927
+Training Cola Loss	0.19624
+Valid. Loss	0.65941
+Valid. Matthews.	0.60399
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	13
+Layer	10
+epoch	1
+Training Loss	0.61324
+Training Prob Loss	0.02556
+Training Cola Loss	0.51677
+Valid. Loss	0.61324
+Valid. Matthews.	0.59785
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	17
+Layer	10
+epoch	2
+Training Loss	0.60955
+Training Prob Loss	0.01033
+Training Cola Loss	0.33004
+Valid. Loss	0.60955
+Valid. Matthews.	0.63170
+Training Time	0:03:21
+Validation Time	0:00:07
+Seed	17
+Layer	10
+epoch	3
+Training Loss	0.61637
+Training Prob Loss	0.00836
+Training Cola Loss	0.20563
+Valid. Loss	0.61637
+Valid. Matthews.	0.62592
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	17
+Layer	10
+epoch	1
+Training Loss	0.62612
+Training Prob Loss	0.02503
+Training Cola Loss	0.51384
+Valid. Loss	0.62612
+Valid. Matthews.	0.57212
+Training Time	0:03:20
+Validation Time	0:00:07
+Seed	21
+Layer	10
+epoch	2
+Training Loss	0.61908
+Training Prob Loss	0.01062
+Training Cola Loss	0.29226
+Valid. Loss	0.61908
+Valid. Matthews.	0.59320
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	21
+Layer	10
+epoch	3
+Training Loss	0.68073
+Training Prob Loss	0.00905
+Training Cola Loss	0.15317
+Valid. Loss	0.68073
+Valid. Matthews.	0.63174
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	21
+Layer	10
+epoch	1
+Training Loss	0.73249
+Training Prob Loss	0.02594
+Training Cola Loss	0.52330
+Valid. Loss	0.73249
+Valid. Matthews.	0.48200
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	25
+Layer	10
+epoch	2
+Training Loss	0.59720
+Training Prob Loss	0.01090
+Training Cola Loss	0.31801
+Valid. Loss	0.59720
+Valid. Matthews.	0.58942
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	25
+Layer	10
+epoch	3
+Training Loss	0.62840
+Training Prob Loss	0.00933
+Training Cola Loss	0.18412
+Valid. Loss	0.62840
+Valid. Matthews.	0.63613
+Training Time	0:03:26
+Validation Time	0:00:07
+Seed	25
+Layer	10
+epoch	1
+Training Loss	0.67653
+Training Prob Loss	0.02609
+Training Cola Loss	0.53754
+Valid. Loss	0.67653
+Valid. Matthews.	0.49787
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	29
+Layer	10
+epoch	2
+Training Loss	0.64043
+Training Prob Loss	0.01021
+Training Cola Loss	0.30966
+Valid. Loss	0.64043
+Valid. Matthews.	0.60942
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	29
+Layer	10
+epoch	3
+Training Loss	0.66123
+Training Prob Loss	0.00830
+Training Cola Loss	0.17043
+Valid. Loss	0.66123
+Valid. Matthews.	0.63565
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	29
+Layer	10
+epoch	1
+Training Loss	0.76507
+Training Prob Loss	0.02082
+Training Cola Loss	0.62760
+Valid. Loss	0.76507
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	33
+Layer	10
+epoch	2
+Training Loss	0.66848
+Training Prob Loss	0.00111
+Training Cola Loss	0.61694
+Valid. Loss	0.66848
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	33
+Layer	10
+epoch	3
+Training Loss	0.66105
+Training Prob Loss	0.00067
+Training Cola Loss	0.61539
+Valid. Loss	0.66105
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	33
+Layer	10
+epoch	1
+Training Loss	0.65882
+Training Prob Loss	0.02484
+Training Cola Loss	0.50359
+Valid. Loss	0.65882
+Valid. Matthews.	0.60093
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	37
+Layer	10
+epoch	2
+Training Loss	0.60952
+Training Prob Loss	0.01014
+Training Cola Loss	0.29170
+Valid. Loss	0.60952
+Valid. Matthews.	0.56419
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	37
+Layer	10
+epoch	3
+Training Loss	0.66104
+Training Prob Loss	0.00815
+Training Cola Loss	0.15759
+Valid. Loss	0.66104
+Valid. Matthews.	0.63114
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	37
+Layer	11
+epoch	1
+Training Loss	0.68228
+Training Prob Loss	0.03876
+Training Cola Loss	0.50959
+Valid. Loss	0.68228
+Valid. Matthews.	0.58863
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	1
+Layer	11
+epoch	2
+Training Loss	0.66597
+Training Prob Loss	0.01372
+Training Cola Loss	0.29236
+Valid. Loss	0.66597
+Valid. Matthews.	0.60419
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	1
+Layer	11
+epoch	3
+Training Loss	0.72404
+Training Prob Loss	0.01170
+Training Cola Loss	0.15463
+Valid. Loss	0.72404
+Valid. Matthews.	0.61118
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	1
+Layer	11
+epoch	1
+Training Loss	0.79471
+Training Prob Loss	0.03702
+Training Cola Loss	0.52211
+Valid. Loss	0.79471
+Valid. Matthews.	0.60036
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	11
+epoch	2
+Training Loss	0.67198
+Training Prob Loss	0.01354
+Training Cola Loss	0.31369
+Valid. Loss	0.67198
+Valid. Matthews.	0.62170
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	5
+Layer	11
+epoch	3
+Training Loss	0.70190
+Training Prob Loss	0.01128
+Training Cola Loss	0.17683
+Valid. Loss	0.70190
+Valid. Matthews.	0.64769
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	5
+Layer	11
+epoch	1
+Training Loss	0.85360
+Training Prob Loss	0.03859
+Training Cola Loss	0.51863
+Valid. Loss	0.85360
+Valid. Matthews.	0.59531
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	9
+Layer	11
+epoch	2
+Training Loss	0.63648
+Training Prob Loss	0.01451
+Training Cola Loss	0.31943
+Valid. Loss	0.63648
+Valid. Matthews.	0.70896
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	9
+Layer	11
+epoch	3
+Training Loss	0.68204
+Training Prob Loss	0.01219
+Training Cola Loss	0.17780
+Valid. Loss	0.68204
+Valid. Matthews.	0.66064
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	9
+Layer	11
+epoch	1
+Training Loss	0.83949
+Training Prob Loss	0.03850
+Training Cola Loss	0.51876
+Valid. Loss	0.83949
+Valid. Matthews.	0.50171
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	13
+Layer	11
+epoch	2
+Training Loss	0.64568
+Training Prob Loss	0.01411
+Training Cola Loss	0.30210
+Valid. Loss	0.64568
+Valid. Matthews.	0.59389
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	13
+Layer	11
+epoch	3
+Training Loss	0.70006
+Training Prob Loss	0.01178
+Training Cola Loss	0.16309
+Valid. Loss	0.70006
+Valid. Matthews.	0.63933
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	13
+Layer	11
+epoch	1
+Training Loss	0.80463
+Training Prob Loss	0.04259
+Training Cola Loss	0.49361
+Valid. Loss	0.80463
+Valid. Matthews.	0.61526
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	17
+Layer	11
+epoch	2
+Training Loss	0.75682
+Training Prob Loss	0.01461
+Training Cola Loss	0.29796
+Valid. Loss	0.75682
+Valid. Matthews.	0.61799
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	17
+Layer	11
+epoch	3
+Training Loss	0.74459
+Training Prob Loss	0.01246
+Training Cola Loss	0.15124
+Valid. Loss	0.74459
+Valid. Matthews.	0.66128
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	17
+Layer	11
+epoch	1
+Training Loss	0.81659
+Training Prob Loss	0.03947
+Training Cola Loss	0.50712
+Valid. Loss	0.81659
+Valid. Matthews.	0.53098
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	21
+Layer	11
+epoch	2
+Training Loss	0.67774
+Training Prob Loss	0.01341
+Training Cola Loss	0.29044
+Valid. Loss	0.67774
+Valid. Matthews.	0.63432
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	21
+Layer	11
+epoch	3
+Training Loss	0.74937
+Training Prob Loss	0.01164
+Training Cola Loss	0.14863
+Valid. Loss	0.74937
+Valid. Matthews.	0.64981
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	21
+Layer	11
+epoch	1
+Training Loss	0.94389
+Training Prob Loss	0.03754
+Training Cola Loss	0.54373
+Valid. Loss	0.94389
+Valid. Matthews.	0.57303
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	25
+Layer	11
+epoch	2
+Training Loss	0.68910
+Training Prob Loss	0.01344
+Training Cola Loss	0.36177
+Valid. Loss	0.68910
+Valid. Matthews.	0.65290
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	25
+Layer	11
+epoch	3
+Training Loss	0.73323
+Training Prob Loss	0.01189
+Training Cola Loss	0.21729
+Valid. Loss	0.73323
+Valid. Matthews.	0.62233
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	25
+Layer	11
+epoch	1
+Training Loss	0.85581
+Training Prob Loss	0.04338
+Training Cola Loss	0.51495
+Valid. Loss	0.85581
+Valid. Matthews.	0.60393
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	29
+Layer	11
+epoch	2
+Training Loss	0.69944
+Training Prob Loss	0.01465
+Training Cola Loss	0.30189
+Valid. Loss	0.69944
+Valid. Matthews.	0.66743
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	29
+Layer	11
+epoch	3
+Training Loss	0.71106
+Training Prob Loss	0.01261
+Training Cola Loss	0.14920
+Valid. Loss	0.71106
+Valid. Matthews.	0.66042
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	29
+Layer	11
+epoch	1
+Training Loss	0.74892
+Training Prob Loss	0.03732
+Training Cola Loss	0.51967
+Valid. Loss	0.74892
+Valid. Matthews.	0.62584
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	33
+Layer	11
+epoch	2
+Training Loss	0.68737
+Training Prob Loss	0.01343
+Training Cola Loss	0.32911
+Valid. Loss	0.68737
+Valid. Matthews.	0.63428
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	33
+Layer	11
+epoch	3
+Training Loss	0.77485
+Training Prob Loss	0.01154
+Training Cola Loss	0.18172
+Valid. Loss	0.77485
+Valid. Matthews.	0.61881
+Training Time	0:03:29
+Validation Time	0:00:06
+Seed	33
+Layer	11
+epoch	1
+Training Loss	1.98565
+Training Prob Loss	0.05642
+Training Cola Loss	0.52689
+Valid. Loss	1.98565
+Valid. Matthews.	0.48980
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	37
+Layer	11
+epoch	2
+Training Loss	1.65575
+Training Prob Loss	0.02925
+Training Cola Loss	0.34478
+Valid. Loss	1.65575
+Valid. Matthews.	0.57095
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	37
+Layer	11
+epoch	3
+Training Loss	1.89566
+Training Prob Loss	0.02509
+Training Cola Loss	0.19586
+Valid. Loss	1.89566
+Valid. Matthews.	0.62431
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	37
+Layer	12
+epoch	1
+Training Loss	1.55339
+Training Prob Loss	0.04310
+Training Cola Loss	0.63414
+Valid. Loss	1.55339
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	1
+Layer	12
+epoch	2
+Training Loss	0.96077
+Training Prob Loss	0.01472
+Training Cola Loss	0.61904
+Valid. Loss	0.96077
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	1
+Layer	12
+epoch	3
+Training Loss	0.93388
+Training Prob Loss	0.01115
+Training Cola Loss	0.61294
+Valid. Loss	0.93388
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	1
+Layer	12
+epoch	1
+Training Loss	0.90728
+Training Prob Loss	0.03644
+Training Cola Loss	0.63612
+Valid. Loss	0.90728
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:07
+Seed	5
+Layer	12
+epoch	2
+Training Loss	0.75200
+Training Prob Loss	0.00733
+Training Cola Loss	0.61811
+Valid. Loss	0.75200
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	5
+Layer	12
+epoch	3
+Training Loss	0.78083
+Training Prob Loss	0.00381
+Training Cola Loss	0.61757
+Valid. Loss	0.78083
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	5
+Layer	12
+epoch	1
+Training Loss	1.20512
+Training Prob Loss	0.04460
+Training Cola Loss	0.62862
+Valid. Loss	1.20512
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	9
+Layer	12
+epoch	2
+Training Loss	1.01546
+Training Prob Loss	0.01624
+Training Cola Loss	0.61500
+Valid. Loss	1.01546
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	9
+Layer	12
+epoch	3
+Training Loss	1.02342
+Training Prob Loss	0.01283
+Training Cola Loss	0.61608
+Valid. Loss	1.02342
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	9
+Layer	12
+epoch	1
+Training Loss	0.93088
+Training Prob Loss	0.03372
+Training Cola Loss	0.62819
+Valid. Loss	0.93088
+Valid. Matthews.	0.00000
+Training Time	0:03:17
+Validation Time	0:00:07
+Seed	13
+Layer	12
+epoch	2
+Training Loss	0.74949
+Training Prob Loss	0.00531
+Training Cola Loss	0.61804
+Valid. Loss	0.74949
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	13
+Layer	12
+epoch	3
+Training Loss	0.75565
+Training Prob Loss	0.00237
+Training Cola Loss	0.61487
+Valid. Loss	0.75565
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	13
+Layer	12
+epoch	1
+Training Loss	1.12738
+Training Prob Loss	0.04094
+Training Cola Loss	0.62083
+Valid. Loss	1.12738
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	17
+Layer	12
+epoch	2
+Training Loss	0.87308
+Training Prob Loss	0.01400
+Training Cola Loss	0.61982
+Valid. Loss	0.87308
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	17
+Layer	12
+epoch	3
+Training Loss	0.92239
+Training Prob Loss	0.01116
+Training Cola Loss	0.61699
+Valid. Loss	0.92239
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	17
+Layer	12
+epoch	1
+Training Loss	1.08811
+Training Prob Loss	0.03976
+Training Cola Loss	0.62307
+Valid. Loss	1.08811
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	21
+Layer	12
+epoch	2
+Training Loss	0.90049
+Training Prob Loss	0.01358
+Training Cola Loss	0.61465
+Valid. Loss	0.90049
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	21
+Layer	12
+epoch	3
+Training Loss	0.90959
+Training Prob Loss	0.01045
+Training Cola Loss	0.61810
+Valid. Loss	0.90959
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	21
+Layer	12
+epoch	1
+Training Loss	1.22627
+Training Prob Loss	0.04134
+Training Cola Loss	0.62734
+Valid. Loss	1.22627
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	25
+Layer	12
+epoch	2
+Training Loss	0.96361
+Training Prob Loss	0.01368
+Training Cola Loss	0.61466
+Valid. Loss	0.96361
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	25
+Layer	12
+epoch	3
+Training Loss	0.88943
+Training Prob Loss	0.01033
+Training Cola Loss	0.61729
+Valid. Loss	0.88943
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	25
+Layer	12
+epoch	1
+Training Loss	1.28311
+Training Prob Loss	0.04148
+Training Cola Loss	0.64718
+Valid. Loss	1.28311
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	29
+Layer	12
+epoch	2
+Training Loss	0.87350
+Training Prob Loss	0.00975
+Training Cola Loss	0.61498
+Valid. Loss	0.87350
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	29
+Layer	12
+epoch	3
+Training Loss	0.83758
+Training Prob Loss	0.00477
+Training Cola Loss	0.61707
+Valid. Loss	0.83758
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	29
+Layer	12
+epoch	1
+Training Loss	1.33902
+Training Prob Loss	0.04195
+Training Cola Loss	0.62473
+Valid. Loss	1.33902
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	33
+Layer	12
+epoch	2
+Training Loss	0.98351
+Training Prob Loss	0.01712
+Training Cola Loss	0.61871
+Valid. Loss	0.98351
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	33
+Layer	12
+epoch	3
+Training Loss	0.88223
+Training Prob Loss	0.01330
+Training Cola Loss	0.61964
+Valid. Loss	0.88223
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:07
+Seed	33
+Layer	12
+epoch	1
+Training Loss	1.15652
+Training Prob Loss	0.04164
+Training Cola Loss	0.62077
+Valid. Loss	1.15652
+Valid. Matthews.	0.00000
+Training Time	0:03:14
+Validation Time	0:00:06
+Seed	37
+Layer	12
+epoch	2
+Training Loss	0.95556
+Training Prob Loss	0.01400
+Training Cola Loss	0.61897
+Valid. Loss	0.95556
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:07
+Seed	37
+Layer	12
+epoch	3
+Training Loss	0.93590
+Training Prob Loss	0.01106
+Training Cola Loss	0.61547
+Valid. Loss	0.93590
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	37
+Layer	13
+epoch	1
+Training Loss	1.23677
+Training Prob Loss	0.04680
+Training Cola Loss	0.63771
+Valid. Loss	1.23677
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	1
+Layer	13
+epoch	2
+Training Loss	0.88068
+Training Prob Loss	0.00436
+Training Cola Loss	0.61967
+Valid. Loss	0.88068
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	1
+Layer	13
+epoch	3
+Training Loss	0.81824
+Training Prob Loss	0.00141
+Training Cola Loss	0.61819
+Valid. Loss	0.81824
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	1
+Layer	13
+epoch	1
+Training Loss	1.17648
+Training Prob Loss	0.04696
+Training Cola Loss	0.63111
+Valid. Loss	1.17648
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	13
+epoch	2
+Training Loss	0.85105
+Training Prob Loss	0.00634
+Training Cola Loss	0.61981
+Valid. Loss	0.85105
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	5
+Layer	13
+epoch	3
+Training Loss	0.86580
+Training Prob Loss	0.00267
+Training Cola Loss	0.61653
+Valid. Loss	0.86580
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	5
+Layer	13
+epoch	1
+Training Loss	1.22026
+Training Prob Loss	0.04652
+Training Cola Loss	0.62895
+Valid. Loss	1.22026
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:07
+Seed	9
+Layer	13
+epoch	2
+Training Loss	0.87466
+Training Prob Loss	0.00504
+Training Cola Loss	0.61499
+Valid. Loss	0.87466
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	9
+Layer	13
+epoch	3
+Training Loss	0.83689
+Training Prob Loss	0.00156
+Training Cola Loss	0.61456
+Valid. Loss	0.83689
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	9
+Layer	13
+epoch	1
+Training Loss	1.21341
+Training Prob Loss	0.04895
+Training Cola Loss	0.62967
+Valid. Loss	1.21341
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	13
+Layer	13
+epoch	2
+Training Loss	0.87219
+Training Prob Loss	0.00818
+Training Cola Loss	0.61811
+Valid. Loss	0.87219
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	13
+Layer	13
+epoch	3
+Training Loss	0.75501
+Training Prob Loss	0.00261
+Training Cola Loss	0.61842
+Valid. Loss	0.75501
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	13
+Layer	13
+epoch	1
+Training Loss	1.10575
+Training Prob Loss	0.04595
+Training Cola Loss	0.62454
+Valid. Loss	1.10575
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	17
+Layer	13
+epoch	2
+Training Loss	0.91119
+Training Prob Loss	0.00629
+Training Cola Loss	0.61811
+Valid. Loss	0.91119
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	17
+Layer	13
+epoch	3
+Training Loss	0.84435
+Training Prob Loss	0.00168
+Training Cola Loss	0.61633
+Valid. Loss	0.84435
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	17
+Layer	13
+epoch	1
+Training Loss	1.34192
+Training Prob Loss	0.05284
+Training Cola Loss	0.62157
+Valid. Loss	1.34192
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:07
+Seed	21
+Layer	13
+epoch	2
+Training Loss	0.87104
+Training Prob Loss	0.00620
+Training Cola Loss	0.61683
+Valid. Loss	0.87104
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	21
+Layer	13
+epoch	3
+Training Loss	0.84871
+Training Prob Loss	0.00174
+Training Cola Loss	0.61618
+Valid. Loss	0.84871
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	21
+Layer	13
+epoch	1
+Training Loss	1.28936
+Training Prob Loss	0.04632
+Training Cola Loss	0.62757
+Valid. Loss	1.28936
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	25
+Layer	13
+epoch	2
+Training Loss	0.94255
+Training Prob Loss	0.00985
+Training Cola Loss	0.61746
+Valid. Loss	0.94255
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	25
+Layer	13
+epoch	3
+Training Loss	0.91328
+Training Prob Loss	0.00410
+Training Cola Loss	0.61596
+Valid. Loss	0.91328
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	25
+Layer	13
+epoch	1
+Training Loss	1.20697
+Training Prob Loss	0.05020
+Training Cola Loss	0.64808
+Valid. Loss	1.20697
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:07
+Seed	29
+Layer	13
+epoch	2
+Training Loss	0.93479
+Training Prob Loss	0.00688
+Training Cola Loss	0.61692
+Valid. Loss	0.93479
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	29
+Layer	13
+epoch	3
+Training Loss	0.83470
+Training Prob Loss	0.00185
+Training Cola Loss	0.61350
+Valid. Loss	0.83470
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	29
+Layer	13
+epoch	1
+Training Loss	1.18008
+Training Prob Loss	0.04667
+Training Cola Loss	0.62517
+Valid. Loss	1.18008
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:07
+Seed	33
+Layer	13
+epoch	2
+Training Loss	0.83272
+Training Prob Loss	0.00640
+Training Cola Loss	0.61892
+Valid. Loss	0.83272
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	33
+Layer	13
+epoch	3
+Training Loss	0.84398
+Training Prob Loss	0.00177
+Training Cola Loss	0.61924
+Valid. Loss	0.84398
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	33
+Layer	13
+epoch	1
+Training Loss	1.22801
+Training Prob Loss	0.04796
+Training Cola Loss	0.62315
+Valid. Loss	1.22801
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	37
+Layer	13
+epoch	2
+Training Loss	0.88546
+Training Prob Loss	0.01210
+Training Cola Loss	0.61942
+Valid. Loss	0.88546
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	37
+Layer	13
+epoch	3
+Training Loss	0.77659
+Training Prob Loss	0.00429
+Training Cola Loss	0.61376
+Valid. Loss	0.77659
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	37
+Layer	14
+epoch	1
+Training Loss	1.82279
+Training Prob Loss	0.08855
+Training Cola Loss	0.63390
+Valid. Loss	1.82279
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	1
+Layer	14
+epoch	2
+Training Loss	1.16924
+Training Prob Loss	0.00995
+Training Cola Loss	0.61765
+Valid. Loss	1.16924
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	1
+Layer	14
+epoch	3
+Training Loss	0.93845
+Training Prob Loss	0.00293
+Training Cola Loss	0.61261
+Valid. Loss	0.93845
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	1
+Layer	14
+epoch	1
+Training Loss	1.55994
+Training Prob Loss	0.09405
+Training Cola Loss	0.63360
+Valid. Loss	1.55994
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	5
+Layer	14
+epoch	2
+Training Loss	0.92234
+Training Prob Loss	0.00950
+Training Cola Loss	0.61966
+Valid. Loss	0.92234
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	14
+epoch	3
+Training Loss	0.92731
+Training Prob Loss	0.00198
+Training Cola Loss	0.61569
+Valid. Loss	0.92731
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	5
+Layer	14
+epoch	1
+Training Loss	1.28278
+Training Prob Loss	0.09117
+Training Cola Loss	0.63603
+Valid. Loss	1.28278
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	9
+Layer	14
+epoch	2
+Training Loss	1.09140
+Training Prob Loss	0.01060
+Training Cola Loss	0.61829
+Valid. Loss	1.09140
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	9
+Layer	14
+epoch	3
+Training Loss	0.94224
+Training Prob Loss	0.00374
+Training Cola Loss	0.61492
+Valid. Loss	0.94224
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	9
+Layer	14
+epoch	1
+Training Loss	1.70104
+Training Prob Loss	0.08728
+Training Cola Loss	0.63004
+Valid. Loss	1.70104
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	13
+Layer	14
+epoch	2
+Training Loss	1.07254
+Training Prob Loss	0.01070
+Training Cola Loss	0.61800
+Valid. Loss	1.07254
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	13
+Layer	14
+epoch	3
+Training Loss	0.95662
+Training Prob Loss	0.00297
+Training Cola Loss	0.61791
+Valid. Loss	0.95662
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	13
+Layer	14
+epoch	1
+Training Loss	1.61167
+Training Prob Loss	0.09003
+Training Cola Loss	0.62591
+Valid. Loss	1.61167
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	17
+Layer	14
+epoch	2
+Training Loss	0.99820
+Training Prob Loss	0.00903
+Training Cola Loss	0.61602
+Valid. Loss	0.99820
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	17
+Layer	14
+epoch	3
+Training Loss	0.92885
+Training Prob Loss	0.00217
+Training Cola Loss	0.61625
+Valid. Loss	0.92885
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	17
+Layer	14
+epoch	1
+Training Loss	1.55906
+Training Prob Loss	0.09075
+Training Cola Loss	0.62956
+Valid. Loss	1.55906
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	21
+Layer	14
+epoch	2
+Training Loss	1.17966
+Training Prob Loss	0.01261
+Training Cola Loss	0.61433
+Valid. Loss	1.17966
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	21
+Layer	14
+epoch	3
+Training Loss	0.99432
+Training Prob Loss	0.00540
+Training Cola Loss	0.61738
+Valid. Loss	0.99432
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	21
+Layer	14
+epoch	1
+Training Loss	1.63110
+Training Prob Loss	0.09013
+Training Cola Loss	0.62888
+Valid. Loss	1.63110
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	25
+Layer	14
+epoch	2
+Training Loss	1.10434
+Training Prob Loss	0.00940
+Training Cola Loss	0.61737
+Valid. Loss	1.10434
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	25
+Layer	14
+epoch	3
+Training Loss	0.95414
+Training Prob Loss	0.00273
+Training Cola Loss	0.61535
+Valid. Loss	0.95414
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	25
+Layer	14
+epoch	1
+Training Loss	1.43981
+Training Prob Loss	0.09107
+Training Cola Loss	0.64980
+Valid. Loss	1.43981
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	29
+Layer	14
+epoch	2
+Training Loss	1.21924
+Training Prob Loss	0.01054
+Training Cola Loss	0.61591
+Valid. Loss	1.21924
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	29
+Layer	14
+epoch	3
+Training Loss	0.95709
+Training Prob Loss	0.00353
+Training Cola Loss	0.61567
+Valid. Loss	0.95709
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	29
+Layer	14
+epoch	1
+Training Loss	1.28298
+Training Prob Loss	0.09234
+Training Cola Loss	0.63009
+Valid. Loss	1.28298
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	33
+Layer	14
+epoch	2
+Training Loss	0.93323
+Training Prob Loss	0.00910
+Training Cola Loss	0.61441
+Valid. Loss	0.93323
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	33
+Layer	14
+epoch	3
+Training Loss	0.91206
+Training Prob Loss	0.00181
+Training Cola Loss	0.61672
+Valid. Loss	0.91206
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	33
+Layer	14
+epoch	1
+Training Loss	1.39710
+Training Prob Loss	0.08766
+Training Cola Loss	0.62218
+Valid. Loss	1.39710
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	37
+Layer	14
+epoch	2
+Training Loss	0.99964
+Training Prob Loss	0.01073
+Training Cola Loss	0.61992
+Valid. Loss	0.99964
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	37
+Layer	14
+epoch	3
+Training Loss	0.93913
+Training Prob Loss	0.00195
+Training Cola Loss	0.61424
+Valid. Loss	0.93913
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	37
+Layer	15
+epoch	1
+Training Loss	1.01072
+Training Prob Loss	0.16891
+Training Cola Loss	0.63495
+Valid. Loss	1.01072
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	1
+Layer	15
+epoch	2
+Training Loss	1.81120
+Training Prob Loss	0.02772
+Training Cola Loss	0.61853
+Valid. Loss	1.81120
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	1
+Layer	15
+epoch	3
+Training Loss	1.94078
+Training Prob Loss	0.01861
+Training Cola Loss	0.61331
+Valid. Loss	1.94078
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	1
+Layer	15
+epoch	1
+Training Loss	1.52386
+Training Prob Loss	0.16174
+Training Cola Loss	0.63206
+Valid. Loss	1.52386
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	5
+Layer	15
+epoch	2
+Training Loss	1.23331
+Training Prob Loss	0.01479
+Training Cola Loss	0.61963
+Valid. Loss	1.23331
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	15
+epoch	3
+Training Loss	1.10867
+Training Prob Loss	0.01388
+Training Cola Loss	0.61590
+Valid. Loss	1.10867
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	5
+Layer	15
+epoch	1
+Training Loss	1.96164
+Training Prob Loss	0.16004
+Training Cola Loss	0.63262
+Valid. Loss	1.96164
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:07
+Seed	9
+Layer	15
+epoch	2
+Training Loss	1.12832
+Training Prob Loss	0.01469
+Training Cola Loss	0.61829
+Valid. Loss	1.12832
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	9
+Layer	15
+epoch	3
+Training Loss	1.08184
+Training Prob Loss	0.01387
+Training Cola Loss	0.61451
+Valid. Loss	1.08184
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	9
+Layer	15
+epoch	1
+Training Loss	1.19514
+Training Prob Loss	0.16804
+Training Cola Loss	0.62888
+Valid. Loss	1.19514
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	13
+Layer	15
+epoch	2
+Training Loss	2.00705
+Training Prob Loss	0.02287
+Training Cola Loss	0.61684
+Valid. Loss	2.00705
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	13
+Layer	15
+epoch	3
+Training Loss	2.06030
+Training Prob Loss	0.01700
+Training Cola Loss	0.61899
+Valid. Loss	2.06030
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	13
+Layer	15
+epoch	1
+Training Loss	1.13247
+Training Prob Loss	0.17053
+Training Cola Loss	0.62460
+Valid. Loss	1.13247
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	17
+Layer	15
+epoch	2
+Training Loss	1.90528
+Training Prob Loss	0.02665
+Training Cola Loss	0.61957
+Valid. Loss	1.90528
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	17
+Layer	15
+epoch	3
+Training Loss	1.99129
+Training Prob Loss	0.01788
+Training Cola Loss	0.61731
+Valid. Loss	1.99129
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	17
+Layer	15
+epoch	1
+Training Loss	1.60827
+Training Prob Loss	0.17445
+Training Cola Loss	0.63014
+Valid. Loss	1.60827
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	21
+Layer	15
+epoch	2
+Training Loss	2.21801
+Training Prob Loss	0.02423
+Training Cola Loss	0.61827
+Valid. Loss	2.21801
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	21
+Layer	15
+epoch	3
+Training Loss	2.01854
+Training Prob Loss	0.01803
+Training Cola Loss	0.61632
+Valid. Loss	2.01854
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	21
+Layer	15
+epoch	1
+Training Loss	1.25991
+Training Prob Loss	0.15714
+Training Cola Loss	0.62893
+Valid. Loss	1.25991
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	25
+Layer	15
+epoch	2
+Training Loss	1.25646
+Training Prob Loss	0.01472
+Training Cola Loss	0.61778
+Valid. Loss	1.25646
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	25
+Layer	15
+epoch	3
+Training Loss	1.12698
+Training Prob Loss	0.01392
+Training Cola Loss	0.61297
+Valid. Loss	1.12698
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	25
+Layer	15
+epoch	1
+Training Loss	1.43849
+Training Prob Loss	0.15076
+Training Cola Loss	0.65076
+Valid. Loss	1.43849
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	29
+Layer	15
+epoch	2
+Training Loss	1.24664
+Training Prob Loss	0.01497
+Training Cola Loss	0.61704
+Valid. Loss	1.24664
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	29
+Layer	15
+epoch	3
+Training Loss	1.11456
+Training Prob Loss	0.01390
+Training Cola Loss	0.61335
+Valid. Loss	1.11456
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	29
+Layer	15
+epoch	1
+Training Loss	1.13691
+Training Prob Loss	0.16511
+Training Cola Loss	0.62636
+Valid. Loss	1.13691
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:07
+Seed	33
+Layer	15
+epoch	2
+Training Loss	1.14430
+Training Prob Loss	0.01548
+Training Cola Loss	0.61696
+Valid. Loss	1.14430
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	33
+Layer	15
+epoch	3
+Training Loss	1.15109
+Training Prob Loss	0.01402
+Training Cola Loss	0.61605
+Valid. Loss	1.15109
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	33
+Layer	15
+epoch	1
+Training Loss	1.52882
+Training Prob Loss	0.16271
+Training Cola Loss	0.62385
+Valid. Loss	1.52882
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	37
+Layer	15
+epoch	2
+Training Loss	2.30680
+Training Prob Loss	0.02256
+Training Cola Loss	0.61482
+Valid. Loss	2.30680
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	37
+Layer	15
+epoch	3
+Training Loss	2.45376
+Training Prob Loss	0.01577
+Training Cola Loss	0.61433
+Valid. Loss	2.45376
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	37
+Layer	16
+epoch	1
+Training Loss	1.94705
+Training Prob Loss	0.20628
+Training Cola Loss	0.63501
+Valid. Loss	1.94705
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	1
+Layer	16
+epoch	2
+Training Loss	1.02676
+Training Prob Loss	0.01320
+Training Cola Loss	0.61994
+Valid. Loss	1.02676
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	1
+Layer	16
+epoch	3
+Training Loss	0.96885
+Training Prob Loss	0.00974
+Training Cola Loss	0.61352
+Valid. Loss	0.96885
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	1
+Layer	16
+epoch	1
+Training Loss	2.51630
+Training Prob Loss	0.23319
+Training Cola Loss	0.63313
+Valid. Loss	2.51630
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	16
+epoch	2
+Training Loss	1.92888
+Training Prob Loss	0.02422
+Training Cola Loss	0.62034
+Valid. Loss	1.92888
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	16
+epoch	3
+Training Loss	2.09529
+Training Prob Loss	0.01692
+Training Cola Loss	0.61627
+Valid. Loss	2.09529
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	5
+Layer	16
+epoch	1
+Training Loss	1.16059
+Training Prob Loss	0.23737
+Training Cola Loss	0.62931
+Valid. Loss	1.16059
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	9
+Layer	16
+epoch	2
+Training Loss	2.19641
+Training Prob Loss	0.02598
+Training Cola Loss	0.61345
+Valid. Loss	2.19641
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	9
+Layer	16
+epoch	3
+Training Loss	2.16381
+Training Prob Loss	0.01755
+Training Cola Loss	0.61611
+Valid. Loss	2.16381
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	9
+Layer	16
+epoch	1
+Training Loss	1.29054
+Training Prob Loss	0.21057
+Training Cola Loss	0.63461
+Valid. Loss	1.29054
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	13
+Layer	16
+epoch	2
+Training Loss	1.11298
+Training Prob Loss	0.01320
+Training Cola Loss	0.61877
+Valid. Loss	1.11298
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	13
+Layer	16
+epoch	3
+Training Loss	0.97750
+Training Prob Loss	0.01018
+Training Cola Loss	0.61386
+Valid. Loss	0.97750
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	13
+Layer	16
+epoch	1
+Training Loss	1.13118
+Training Prob Loss	0.23783
+Training Cola Loss	0.62252
+Valid. Loss	1.13118
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	17
+Layer	16
+epoch	2
+Training Loss	0.92258
+Training Prob Loss	0.01313
+Training Cola Loss	0.62112
+Valid. Loss	0.92258
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	17
+Layer	16
+epoch	3
+Training Loss	0.94372
+Training Prob Loss	0.00950
+Training Cola Loss	0.61739
+Valid. Loss	0.94372
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	17
+Layer	16
+epoch	1
+Training Loss	1.14252
+Training Prob Loss	0.21023
+Training Cola Loss	0.62687
+Valid. Loss	1.14252
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	21
+Layer	16
+epoch	2
+Training Loss	1.04565
+Training Prob Loss	0.01313
+Training Cola Loss	0.61449
+Valid. Loss	1.04565
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	21
+Layer	16
+epoch	3
+Training Loss	1.05361
+Training Prob Loss	0.01050
+Training Cola Loss	0.61724
+Valid. Loss	1.05361
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	21
+Layer	16
+epoch	1
+Training Loss	1.03739
+Training Prob Loss	0.21370
+Training Cola Loss	0.62790
+Valid. Loss	1.03739
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	25
+Layer	16
+epoch	2
+Training Loss	0.78921
+Training Prob Loss	0.00723
+Training Cola Loss	0.61681
+Valid. Loss	0.78921
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	25
+Layer	16
+epoch	3
+Training Loss	0.78776
+Training Prob Loss	0.00235
+Training Cola Loss	0.61530
+Valid. Loss	0.78776
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	25
+Layer	16
+epoch	1
+Training Loss	1.12596
+Training Prob Loss	0.19969
+Training Cola Loss	0.65053
+Valid. Loss	1.12596
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	29
+Layer	16
+epoch	2
+Training Loss	0.88596
+Training Prob Loss	0.01196
+Training Cola Loss	0.61667
+Valid. Loss	0.88596
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	29
+Layer	16
+epoch	3
+Training Loss	0.78906
+Training Prob Loss	0.00233
+Training Cola Loss	0.61269
+Valid. Loss	0.78906
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	29
+Layer	16
+epoch	1
+Training Loss	1.39222
+Training Prob Loss	0.21132
+Training Cola Loss	0.62825
+Valid. Loss	1.39222
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	33
+Layer	16
+epoch	2
+Training Loss	0.82433
+Training Prob Loss	0.00948
+Training Cola Loss	0.61793
+Valid. Loss	0.82433
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	33
+Layer	16
+epoch	3
+Training Loss	0.78996
+Training Prob Loss	0.00313
+Training Cola Loss	0.61862
+Valid. Loss	0.78996
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	33
+Layer	16
+epoch	1
+Training Loss	1.48415
+Training Prob Loss	0.21440
+Training Cola Loss	0.62221
+Valid. Loss	1.48415
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	37
+Layer	16
+epoch	2
+Training Loss	0.98326
+Training Prob Loss	0.01346
+Training Cola Loss	0.61788
+Valid. Loss	0.98326
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	37
+Layer	16
+epoch	3
+Training Loss	0.93042
+Training Prob Loss	0.00973
+Training Cola Loss	0.62031
+Valid. Loss	0.93042
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	37
+Layer	17
+epoch	1
+Training Loss	0.77706
+Training Prob Loss	0.20911
+Training Cola Loss	0.63710
+Valid. Loss	0.77706
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	1
+Layer	17
+epoch	2
+Training Loss	0.77023
+Training Prob Loss	0.00728
+Training Cola Loss	0.61881
+Valid. Loss	0.77023
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	1
+Layer	17
+epoch	3
+Training Loss	0.76345
+Training Prob Loss	0.00545
+Training Cola Loss	0.61172
+Valid. Loss	0.76345
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:07
+Seed	1
+Layer	17
+epoch	1
+Training Loss	0.76207
+Training Prob Loss	0.21493
+Training Cola Loss	0.64315
+Valid. Loss	0.76207
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	5
+Layer	17
+epoch	2
+Training Loss	0.76351
+Training Prob Loss	0.00812
+Training Cola Loss	0.62191
+Valid. Loss	0.76351
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	17
+epoch	3
+Training Loss	0.71537
+Training Prob Loss	0.00495
+Training Cola Loss	0.61541
+Valid. Loss	0.71537
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	17
+epoch	1
+Training Loss	0.80592
+Training Prob Loss	0.21723
+Training Cola Loss	0.62978
+Valid. Loss	0.80592
+Valid. Matthews.	0.00000
+Training Time	0:03:17
+Validation Time	0:00:07
+Seed	9
+Layer	17
+epoch	2
+Training Loss	0.75708
+Training Prob Loss	0.00754
+Training Cola Loss	0.61589
+Valid. Loss	0.75708
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	9
+Layer	17
+epoch	3
+Training Loss	0.75331
+Training Prob Loss	0.00535
+Training Cola Loss	0.61573
+Valid. Loss	0.75331
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	9
+Layer	17
+epoch	1
+Training Loss	0.77861
+Training Prob Loss	0.20825
+Training Cola Loss	0.63025
+Valid. Loss	0.77861
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	13
+Layer	17
+epoch	2
+Training Loss	0.75821
+Training Prob Loss	0.00735
+Training Cola Loss	0.61697
+Valid. Loss	0.75821
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	13
+Layer	17
+epoch	3
+Training Loss	0.73414
+Training Prob Loss	0.00516
+Training Cola Loss	0.61887
+Valid. Loss	0.73414
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	13
+Layer	17
+epoch	1
+Training Loss	0.90554
+Training Prob Loss	0.22643
+Training Cola Loss	0.62400
+Valid. Loss	0.90554
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	17
+Layer	17
+epoch	2
+Training Loss	0.76476
+Training Prob Loss	0.00716
+Training Cola Loss	0.62200
+Valid. Loss	0.76476
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	17
+Layer	17
+epoch	3
+Training Loss	0.74953
+Training Prob Loss	0.00479
+Training Cola Loss	0.61902
+Valid. Loss	0.74953
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	17
+Layer	17
+epoch	1
+Training Loss	0.72108
+Training Prob Loss	0.20817
+Training Cola Loss	0.62843
+Valid. Loss	0.72108
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:07
+Seed	21
+Layer	17
+epoch	2
+Training Loss	0.67336
+Training Prob Loss	0.00477
+Training Cola Loss	0.61680
+Valid. Loss	0.67336
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	21
+Layer	17
+epoch	3
+Training Loss	0.65260
+Training Prob Loss	0.00125
+Training Cola Loss	0.61595
+Valid. Loss	0.65260
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:07
+Seed	21
+Layer	17
+epoch	1
+Training Loss	0.79216
+Training Prob Loss	0.20127
+Training Cola Loss	0.63024
+Valid. Loss	0.79216
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	25
+Layer	17
+epoch	2
+Training Loss	0.77969
+Training Prob Loss	0.00779
+Training Cola Loss	0.61626
+Valid. Loss	0.77969
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	25
+Layer	17
+epoch	3
+Training Loss	0.76230
+Training Prob Loss	0.00585
+Training Cola Loss	0.61612
+Valid. Loss	0.76230
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	25
+Layer	17
+epoch	1
+Training Loss	0.71158
+Training Prob Loss	0.19916
+Training Cola Loss	0.65130
+Valid. Loss	0.71158
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	29
+Layer	17
+epoch	2
+Training Loss	0.65879
+Training Prob Loss	0.00143
+Training Cola Loss	0.61723
+Valid. Loss	0.65879
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	29
+Layer	17
+epoch	3
+Training Loss	0.64931
+Training Prob Loss	0.00070
+Training Cola Loss	0.61329
+Valid. Loss	0.64931
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	29
+Layer	17
+epoch	1
+Training Loss	0.65967
+Training Prob Loss	0.20777
+Training Cola Loss	0.63077
+Valid. Loss	0.65967
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	33
+Layer	17
+epoch	2
+Training Loss	0.65041
+Training Prob Loss	0.00361
+Training Cola Loss	0.61418
+Valid. Loss	0.65041
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	33
+Layer	17
+epoch	3
+Training Loss	0.64736
+Training Prob Loss	0.00137
+Training Cola Loss	0.61691
+Valid. Loss	0.64736
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	33
+Layer	17
+epoch	1
+Training Loss	0.76029
+Training Prob Loss	0.20405
+Training Cola Loss	0.61975
+Valid. Loss	0.76029
+Valid. Matthews.	0.00000
+Training Time	0:03:16
+Validation Time	0:00:06
+Seed	37
+Layer	17
+epoch	2
+Training Loss	0.76493
+Training Prob Loss	0.00836
+Training Cola Loss	0.61973
+Valid. Loss	0.76493
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	37
+Layer	17
+epoch	3
+Training Loss	0.73386
+Training Prob Loss	0.00521
+Training Cola Loss	0.61976
+Valid. Loss	0.73386
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	37
+Layer	18
+epoch	1
+Training Loss	1.07722
+Training Prob Loss	0.27482
+Training Cola Loss	0.63697
+Valid. Loss	1.07722
+Valid. Matthews.	0.00000
+Training Time	0:03:17
+Validation Time	0:00:06
+Seed	1
+Layer	18
+epoch	2
+Training Loss	0.98556
+Training Prob Loss	0.00990
+Training Cola Loss	0.61662
+Valid. Loss	0.98556
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	1
+Layer	18
+epoch	3
+Training Loss	0.92166
+Training Prob Loss	0.00849
+Training Cola Loss	0.61298
+Valid. Loss	0.92166
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	1
+Layer	18
+epoch	1
+Training Loss	0.88869
+Training Prob Loss	0.26929
+Training Cola Loss	0.63964
+Valid. Loss	0.88869
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:07
+Seed	5
+Layer	18
+epoch	2
+Training Loss	0.89921
+Training Prob Loss	0.00899
+Training Cola Loss	0.61759
+Valid. Loss	0.89921
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:07
+Seed	5
+Layer	18
+epoch	3
+Training Loss	0.87793
+Training Prob Loss	0.00698
+Training Cola Loss	0.61365
+Valid. Loss	0.87793
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	5
+Layer	18
+epoch	1
+Training Loss	0.88098
+Training Prob Loss	0.27566
+Training Cola Loss	0.63079
+Valid. Loss	0.88098
+Valid. Matthews.	0.00000
+Training Time	0:03:17
+Validation Time	0:00:06
+Seed	9
+Layer	18
+epoch	2
+Training Loss	0.86750
+Training Prob Loss	0.00917
+Training Cola Loss	0.62514
+Valid. Loss	0.86750
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	9
+Layer	18
+epoch	3
+Training Loss	0.88303
+Training Prob Loss	0.00708
+Training Cola Loss	0.61631
+Valid. Loss	0.88303
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	9
+Layer	18
+epoch	1
+Training Loss	0.97781
+Training Prob Loss	0.27439
+Training Cola Loss	0.62968
+Valid. Loss	0.97781
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	13
+Layer	18
+epoch	2
+Training Loss	0.79626
+Training Prob Loss	0.00224
+Training Cola Loss	0.61615
+Valid. Loss	0.79626
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	13
+Layer	18
+epoch	3
+Training Loss	0.75850
+Training Prob Loss	0.00092
+Training Cola Loss	0.61921
+Valid. Loss	0.75850
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:07
+Seed	13
+Layer	18
+epoch	1
+Training Loss	0.80267
+Training Prob Loss	0.30658
+Training Cola Loss	0.62401
+Valid. Loss	0.80267
+Valid. Matthews.	0.00000
+Training Time	0:03:17
+Validation Time	0:00:06
+Seed	17
+Layer	18
+epoch	2
+Training Loss	0.80347
+Training Prob Loss	0.01060
+Training Cola Loss	0.62045
+Valid. Loss	0.80347
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	17
+Layer	18
+epoch	3
+Training Loss	0.78821
+Training Prob Loss	0.00915
+Training Cola Loss	0.61856
+Valid. Loss	0.78821
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	17
+Layer	18
+epoch	1
+Training Loss	0.97073
+Training Prob Loss	0.26238
+Training Cola Loss	0.62459
+Valid. Loss	0.97073
+Valid. Matthews.	0.00000
+Training Time	0:03:15
+Validation Time	0:00:06
+Seed	21
+Layer	18
+epoch	2
+Training Loss	0.79023
+Training Prob Loss	0.00569
+Training Cola Loss	0.61702
+Valid. Loss	0.79023
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	21
+Layer	18
+epoch	3
+Training Loss	0.74600
+Training Prob Loss	0.00184
+Training Cola Loss	0.61389
+Valid. Loss	0.74600
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	21
+Layer	18
+epoch	1
+Training Loss	0.89687
+Training Prob Loss	0.24957
+Training Cola Loss	0.62834
+Valid. Loss	0.89687
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	25
+Layer	18
+epoch	2
+Training Loss	0.84415
+Training Prob Loss	0.00669
+Training Cola Loss	0.61392
+Valid. Loss	0.84415
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	25
+Layer	18
+epoch	3
+Training Loss	0.78362
+Training Prob Loss	0.00145
+Training Cola Loss	0.61247
+Valid. Loss	0.78362
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	25
+Layer	18
+epoch	1
+Training Loss	1.22817
+Training Prob Loss	0.27530
+Training Cola Loss	0.65104
+Valid. Loss	1.22817
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	29
+Layer	18
+epoch	2
+Training Loss	0.87539
+Training Prob Loss	0.00979
+Training Cola Loss	0.61857
+Valid. Loss	0.87539
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	29
+Layer	18
+epoch	3
+Training Loss	0.88292
+Training Prob Loss	0.00781
+Training Cola Loss	0.61094
+Valid. Loss	0.88292
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	29
+Layer	18
+epoch	1
+Training Loss	0.92790
+Training Prob Loss	0.26889
+Training Cola Loss	0.62805
+Valid. Loss	0.92790
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	33
+Layer	18
+epoch	2
+Training Loss	0.89657
+Training Prob Loss	0.00859
+Training Cola Loss	0.61744
+Valid. Loss	0.89657
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	33
+Layer	18
+epoch	3
+Training Loss	0.78476
+Training Prob Loss	0.00418
+Training Cola Loss	0.62021
+Valid. Loss	0.78476
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	33
+Layer	18
+epoch	1
+Training Loss	0.90592
+Training Prob Loss	0.27276
+Training Cola Loss	0.62254
+Valid. Loss	0.90592
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	37
+Layer	18
+epoch	2
+Training Loss	1.00199
+Training Prob Loss	0.00954
+Training Cola Loss	0.61460
+Valid. Loss	1.00199
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	37
+Layer	18
+epoch	3
+Training Loss	0.88686
+Training Prob Loss	0.00746
+Training Cola Loss	0.61081
+Valid. Loss	0.88686
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	37
+Layer	19
+epoch	1
+Training Loss	1.02322
+Training Prob Loss	0.21698
+Training Cola Loss	0.63746
+Valid. Loss	1.02322
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:07
+Seed	1
+Layer	19
+epoch	2
+Training Loss	0.90748
+Training Prob Loss	0.01147
+Training Cola Loss	0.61813
+Valid. Loss	0.90748
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	1
+Layer	19
+epoch	3
+Training Loss	0.87172
+Training Prob Loss	0.00938
+Training Cola Loss	0.61775
+Valid. Loss	0.87172
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	1
+Layer	19
+epoch	1
+Training Loss	1.31744
+Training Prob Loss	0.20894
+Training Cola Loss	0.63792
+Valid. Loss	1.31744
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	5
+Layer	19
+epoch	2
+Training Loss	1.11712
+Training Prob Loss	0.01350
+Training Cola Loss	0.61731
+Valid. Loss	1.11712
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	5
+Layer	19
+epoch	3
+Training Loss	1.06067
+Training Prob Loss	0.01227
+Training Cola Loss	0.61333
+Valid. Loss	1.06067
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	5
+Layer	19
+epoch	1
+Training Loss	1.12869
+Training Prob Loss	0.19725
+Training Cola Loss	0.63091
+Valid. Loss	1.12869
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	9
+Layer	19
+epoch	2
+Training Loss	1.05356
+Training Prob Loss	0.01382
+Training Cola Loss	0.61519
+Valid. Loss	1.05356
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	9
+Layer	19
+epoch	3
+Training Loss	1.05614
+Training Prob Loss	0.01225
+Training Cola Loss	0.61702
+Valid. Loss	1.05614
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:07
+Seed	9
+Layer	19
+epoch	1
+Training Loss	1.79854
+Training Prob Loss	0.21689
+Training Cola Loss	0.63178
+Valid. Loss	1.79854
+Valid. Matthews.	0.00000
+Training Time	0:03:15
+Validation Time	0:00:06
+Seed	13
+Layer	19
+epoch	2
+Training Loss	1.50290
+Training Prob Loss	0.01542
+Training Cola Loss	0.61808
+Valid. Loss	1.50290
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	13
+Layer	19
+epoch	3
+Training Loss	1.43625
+Training Prob Loss	0.01221
+Training Cola Loss	0.61603
+Valid. Loss	1.43625
+Valid. Matthews.	0.00000
+Training Time	0:03:20
+Validation Time	0:00:06
+Seed	13
+Layer	19
+epoch	1
+Training Loss	1.16904
+Training Prob Loss	0.23762
+Training Cola Loss	0.62204
+Valid. Loss	1.16904
+Valid. Matthews.	0.00000
+Training Time	0:03:16
+Validation Time	0:00:06
+Seed	17
+Layer	19
+epoch	2
+Training Loss	1.02963
+Training Prob Loss	0.01376
+Training Cola Loss	0.61667
+Valid. Loss	1.02963
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	17
+Layer	19
+epoch	3
+Training Loss	1.07055
+Training Prob Loss	0.01213
+Training Cola Loss	0.61294
+Valid. Loss	1.07055
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:06
+Seed	17
+Layer	19
+epoch	1
+Training Loss	1.17201
+Training Prob Loss	0.20933
+Training Cola Loss	0.62431
+Valid. Loss	1.17201
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	21
+Layer	19
+epoch	2
+Training Loss	1.00095
+Training Prob Loss	0.01338
+Training Cola Loss	0.61548
+Valid. Loss	1.00095
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	21
+Layer	19
+epoch	3
+Training Loss	1.06124
+Training Prob Loss	0.01201
+Training Cola Loss	0.61798
+Valid. Loss	1.06124
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	21
+Layer	19
+epoch	1
+Training Loss	1.55708
+Training Prob Loss	0.19970
+Training Cola Loss	0.62709
+Valid. Loss	1.55708
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	25
+Layer	19
+epoch	2
+Training Loss	1.02151
+Training Prob Loss	0.01334
+Training Cola Loss	0.61330
+Valid. Loss	1.02151
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:07
+Seed	25
+Layer	19
+epoch	3
+Training Loss	1.06499
+Training Prob Loss	0.01139
+Training Cola Loss	0.61079
+Valid. Loss	1.06499
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	25
+Layer	19
+epoch	1
+Training Loss	1.20976
+Training Prob Loss	0.20886
+Training Cola Loss	0.65156
+Valid. Loss	1.20976
+Valid. Matthews.	0.00000
+Training Time	0:03:14
+Validation Time	0:00:06
+Seed	29
+Layer	19
+epoch	2
+Training Loss	0.79603
+Training Prob Loss	0.00583
+Training Cola Loss	0.61506
+Valid. Loss	0.79603
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	29
+Layer	19
+epoch	3
+Training Loss	0.80225
+Training Prob Loss	0.00161
+Training Cola Loss	0.61169
+Valid. Loss	0.80225
+Valid. Matthews.	0.00000
+Training Time	0:03:17
+Validation Time	0:00:07
+Seed	29
+Layer	19
+epoch	1
+Training Loss	1.53307
+Training Prob Loss	0.20850
+Training Cola Loss	0.62654
+Valid. Loss	1.53307
+Valid. Matthews.	0.00000
+Training Time	0:03:14
+Validation Time	0:00:07
+Seed	33
+Layer	19
+epoch	2
+Training Loss	1.19003
+Training Prob Loss	0.01326
+Training Cola Loss	0.61646
+Valid. Loss	1.19003
+Valid. Matthews.	0.00000
+Training Time	0:03:18
+Validation Time	0:00:07
+Seed	33
+Layer	19
+epoch	3
+Training Loss	1.03514
+Training Prob Loss	0.01175
+Training Cola Loss	0.61533
+Valid. Loss	1.03514
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	33
+Layer	19
+epoch	1
+Training Loss	0.93950
+Training Prob Loss	0.21258
+Training Cola Loss	0.62147
+Valid. Loss	0.93950
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:07
+Seed	37
+Layer	19
+epoch	2
+Training Loss	0.84261
+Training Prob Loss	0.01087
+Training Cola Loss	0.61783
+Valid. Loss	0.84261
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	37
+Layer	19
+epoch	3
+Training Loss	0.83632
+Training Prob Loss	0.00935
+Training Cola Loss	0.61683
+Valid. Loss	0.83632
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	37
+Layer	20
+epoch	1
+Training Loss	0.94696
+Training Prob Loss	0.20603
+Training Cola Loss	0.63316
+Valid. Loss	0.94696
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	1
+Layer	20
+epoch	2
+Training Loss	0.78656
+Training Prob Loss	0.00428
+Training Cola Loss	0.61223
+Valid. Loss	0.78656
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	1
+Layer	20
+epoch	3
+Training Loss	0.73819
+Training Prob Loss	0.00313
+Training Cola Loss	0.58580
+Valid. Loss	0.73819
+Valid. Matthews.	0.18715
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	1
+Layer	20
+epoch	1
+Training Loss	1.38036
+Training Prob Loss	0.21244
+Training Cola Loss	0.63487
+Valid. Loss	1.38036
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	5
+Layer	20
+epoch	2
+Training Loss	1.04273
+Training Prob Loss	0.01377
+Training Cola Loss	0.61864
+Valid. Loss	1.04273
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	5
+Layer	20
+epoch	3
+Training Loss	0.97984
+Training Prob Loss	0.01108
+Training Cola Loss	0.61576
+Valid. Loss	0.97984
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	5
+Layer	20
+epoch	1
+Training Loss	1.44956
+Training Prob Loss	0.20558
+Training Cola Loss	0.63008
+Valid. Loss	1.44956
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	9
+Layer	20
+epoch	2
+Training Loss	1.03031
+Training Prob Loss	0.01389
+Training Cola Loss	0.61381
+Valid. Loss	1.03031
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:07
+Seed	9
+Layer	20
+epoch	3
+Training Loss	0.97268
+Training Prob Loss	0.01155
+Training Cola Loss	0.61642
+Valid. Loss	0.97268
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	9
+Layer	20
+epoch	1
+Training Loss	1.42275
+Training Prob Loss	0.21259
+Training Cola Loss	0.63287
+Valid. Loss	1.42275
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	13
+Layer	20
+epoch	2
+Training Loss	0.99630
+Training Prob Loss	0.01366
+Training Cola Loss	0.61668
+Valid. Loss	0.99630
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	13
+Layer	20
+epoch	3
+Training Loss	0.95845
+Training Prob Loss	0.01110
+Training Cola Loss	0.61396
+Valid. Loss	0.95845
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:07
+Seed	13
+Layer	20
+epoch	1
+Training Loss	1.35423
+Training Prob Loss	0.22588
+Training Cola Loss	0.62239
+Valid. Loss	1.35423
+Valid. Matthews.	0.00000
+Training Time	0:03:10
+Validation Time	0:00:06
+Seed	17
+Layer	20
+epoch	2
+Training Loss	1.01062
+Training Prob Loss	0.01189
+Training Cola Loss	0.62016
+Valid. Loss	1.01062
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	17
+Layer	20
+epoch	3
+Training Loss	0.99214
+Training Prob Loss	0.01009
+Training Cola Loss	0.61823
+Valid. Loss	0.99214
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	17
+Layer	20
+epoch	1
+Training Loss	0.92307
+Training Prob Loss	0.19858
+Training Cola Loss	0.62438
+Valid. Loss	0.92307
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	21
+Layer	20
+epoch	2
+Training Loss	0.71304
+Training Prob Loss	0.00441
+Training Cola Loss	0.61022
+Valid. Loss	0.71304
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:07
+Seed	21
+Layer	20
+epoch	3
+Training Loss	0.73296
+Training Prob Loss	0.00344
+Training Cola Loss	0.58484
+Valid. Loss	0.73296
+Valid. Matthews.	0.24112
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	21
+Layer	20
+epoch	1
+Training Loss	1.73319
+Training Prob Loss	0.20083
+Training Cola Loss	0.62777
+Valid. Loss	1.73319
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	25
+Layer	20
+epoch	2
+Training Loss	0.94925
+Training Prob Loss	0.01365
+Training Cola Loss	0.61745
+Valid. Loss	0.94925
+Valid. Matthews.	0.00000
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	25
+Layer	20
+epoch	3
+Training Loss	0.96473
+Training Prob Loss	0.01144
+Training Cola Loss	0.61325
+Valid. Loss	0.96473
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	25
+Layer	20
+epoch	1
+Training Loss	1.54197
+Training Prob Loss	0.20550
+Training Cola Loss	0.65404
+Valid. Loss	1.54197
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	29
+Layer	20
+epoch	2
+Training Loss	1.00653
+Training Prob Loss	0.01423
+Training Cola Loss	0.61430
+Valid. Loss	1.00653
+Valid. Matthews.	0.00000
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	29
+Layer	20
+epoch	3
+Training Loss	0.97592
+Training Prob Loss	0.01185
+Training Cola Loss	0.59880
+Valid. Loss	0.97592
+Valid. Matthews.	0.00000
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	29
+Layer	20
+epoch	1
+Training Loss	1.70967
+Training Prob Loss	0.21912
+Training Cola Loss	0.62375
+Valid. Loss	1.70967
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	33
+Layer	20
+epoch	2
+Training Loss	0.99998
+Training Prob Loss	0.01415
+Training Cola Loss	0.61556
+Valid. Loss	0.99998
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	33
+Layer	20
+epoch	3
+Training Loss	0.97312
+Training Prob Loss	0.01135
+Training Cola Loss	0.61477
+Valid. Loss	0.97312
+Valid. Matthews.	0.00000
+Training Time	0:03:22
+Validation Time	0:00:06
+Seed	33
+Layer	20
+epoch	1
+Training Loss	1.88547
+Training Prob Loss	0.20707
+Training Cola Loss	0.61785
+Valid. Loss	1.88547
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:07
+Seed	37
+Layer	20
+epoch	2
+Training Loss	0.96458
+Training Prob Loss	0.01030
+Training Cola Loss	0.61436
+Valid. Loss	0.96458
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	37
+Layer	20
+epoch	3
+Training Loss	0.86882
+Training Prob Loss	0.00656
+Training Cola Loss	0.60895
+Valid. Loss	0.86882
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	37
+Layer	21
+epoch	1
+Training Loss	1.24836
+Training Prob Loss	0.18761
+Training Cola Loss	0.59574
+Valid. Loss	1.24836
+Valid. Matthews.	0.48148
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	1
+Layer	21
+epoch	2
+Training Loss	0.62364
+Training Prob Loss	0.00926
+Training Cola Loss	0.40715
+Valid. Loss	0.62364
+Valid. Matthews.	0.61017
+Training Time	0:03:28
+Validation Time	0:00:07
+Seed	1
+Layer	21
+epoch	3
+Training Loss	0.60319
+Training Prob Loss	0.00587
+Training Cola Loss	0.25776
+Valid. Loss	0.60319
+Valid. Matthews.	0.57232
+Training Time	0:03:29
+Validation Time	0:00:07
+Seed	1
+Layer	21
+epoch	1
+Training Loss	0.76296
+Training Prob Loss	0.19595
+Training Cola Loss	0.63816
+Valid. Loss	0.76296
+Valid. Matthews.	0.00000
+Training Time	0:03:23
+Validation Time	0:00:06
+Seed	5
+Layer	21
+epoch	2
+Training Loss	0.80350
+Training Prob Loss	0.01574
+Training Cola Loss	0.61590
+Valid. Loss	0.80350
+Valid. Matthews.	0.00000
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	5
+Layer	21
+epoch	3
+Training Loss	0.63878
+Training Prob Loss	0.01467
+Training Cola Loss	0.51846
+Valid. Loss	0.63878
+Valid. Matthews.	0.40370
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	5
+Layer	21
+epoch	1
+Training Loss	0.86380
+Training Prob Loss	0.17850
+Training Cola Loss	0.63041
+Valid. Loss	0.86380
+Valid. Matthews.	0.00000
+Training Time	0:03:19
+Validation Time	0:00:06
+Seed	9
+Layer	21
+epoch	2
+Training Loss	0.62652
+Training Prob Loss	0.01121
+Training Cola Loss	0.61406
+Valid. Loss	0.62652
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	9
+Layer	21
+epoch	3
+Training Loss	0.62673
+Training Prob Loss	0.00529
+Training Cola Loss	0.61653
+Valid. Loss	0.62673
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	9
+Layer	21
+epoch	1
+Training Loss	0.54755
+Training Prob Loss	0.18160
+Training Cola Loss	0.59497
+Valid. Loss	0.54755
+Valid. Matthews.	0.37395
+Training Time	0:03:20
+Validation Time	0:00:07
+Seed	13
+Layer	21
+epoch	2
+Training Loss	0.50745
+Training Prob Loss	0.00656
+Training Cola Loss	0.38291
+Valid. Loss	0.50745
+Valid. Matthews.	0.53695
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	13
+Layer	21
+epoch	3
+Training Loss	0.40111
+Training Prob Loss	0.00446
+Training Cola Loss	0.21681
+Valid. Loss	0.40111
+Valid. Matthews.	0.59934
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	13
+Layer	21
+epoch	1
+Training Loss	0.70550
+Training Prob Loss	0.18656
+Training Cola Loss	0.56266
+Valid. Loss	0.70550
+Valid. Matthews.	0.49566
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	17
+Layer	21
+epoch	2
+Training Loss	0.36620
+Training Prob Loss	0.00853
+Training Cola Loss	0.35193
+Valid. Loss	0.36620
+Valid. Matthews.	0.59285
+Training Time	0:03:26
+Validation Time	0:00:07
+Seed	17
+Layer	21
+epoch	3
+Training Loss	0.43549
+Training Prob Loss	0.00583
+Training Cola Loss	0.18827
+Valid. Loss	0.43549
+Valid. Matthews.	0.60760
+Training Time	0:03:29
+Validation Time	0:00:06
+Seed	17
+Layer	21
+epoch	1
+Training Loss	0.65934
+Training Prob Loss	0.19027
+Training Cola Loss	0.55671
+Valid. Loss	0.65934
+Valid. Matthews.	0.41484
+Training Time	0:03:25
+Validation Time	0:00:06
+Seed	21
+Layer	21
+epoch	2
+Training Loss	0.40776
+Training Prob Loss	0.00787
+Training Cola Loss	0.36685
+Valid. Loss	0.40776
+Valid. Matthews.	0.59270
+Training Time	0:03:29
+Validation Time	0:00:06
+Seed	21
+Layer	21
+epoch	3
+Training Loss	0.42790
+Training Prob Loss	0.00558
+Training Cola Loss	0.20171
+Valid. Loss	0.42790
+Valid. Matthews.	0.59125
+Training Time	0:03:30
+Validation Time	0:00:06
+Seed	21
+Layer	21
+epoch	1
+Training Loss	1.12947
+Training Prob Loss	0.18453
+Training Cola Loss	0.62635
+Valid. Loss	1.12947
+Valid. Matthews.	0.00000
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	25
+Layer	21
+epoch	2
+Training Loss	0.84310
+Training Prob Loss	0.01346
+Training Cola Loss	0.61516
+Valid. Loss	0.84310
+Valid. Matthews.	0.00000
+Training Time	0:03:29
+Validation Time	0:00:06
+Seed	25
+Layer	21
+epoch	3
+Training Loss	0.78151
+Training Prob Loss	0.01100
+Training Cola Loss	0.61099
+Valid. Loss	0.78151
+Valid. Matthews.	0.00000
+Training Time	0:03:29
+Validation Time	0:00:07
+Seed	25
+Layer	21
+epoch	1
+Training Loss	0.89122
+Training Prob Loss	0.17547
+Training Cola Loss	0.59493
+Valid. Loss	0.89122
+Valid. Matthews.	0.33226
+Training Time	0:03:26
+Validation Time	0:00:07
+Seed	29
+Layer	21
+epoch	2
+Training Loss	0.38356
+Training Prob Loss	0.01081
+Training Cola Loss	0.36309
+Valid. Loss	0.38356
+Valid. Matthews.	0.62197
+Training Time	0:03:29
+Validation Time	0:00:06
+Seed	29
+Layer	21
+epoch	3
+Training Loss	0.43094
+Training Prob Loss	0.00628
+Training Cola Loss	0.19970
+Valid. Loss	0.43094
+Valid. Matthews.	0.61391
+Training Time	0:03:29
+Validation Time	0:00:07
+Seed	29
+Layer	21
+epoch	1
+Training Loss	0.81944
+Training Prob Loss	0.16702
+Training Cola Loss	0.55533
+Valid. Loss	0.81944
+Valid. Matthews.	0.53035
+Training Time	0:03:25
+Validation Time	0:00:07
+Seed	33
+Layer	21
+epoch	2
+Training Loss	0.42477
+Training Prob Loss	0.00812
+Training Cola Loss	0.35396
+Valid. Loss	0.42477
+Valid. Matthews.	0.63093
+Training Time	0:03:28
+Validation Time	0:00:07
+Seed	33
+Layer	21
+epoch	3
+Training Loss	0.49746
+Training Prob Loss	0.00575
+Training Cola Loss	0.20101
+Valid. Loss	0.49746
+Valid. Matthews.	0.60204
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	33
+Layer	21
+epoch	1
+Training Loss	0.84303
+Training Prob Loss	0.17061
+Training Cola Loss	0.54839
+Valid. Loss	0.84303
+Valid. Matthews.	0.54431
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	37
+Layer	21
+epoch	2
+Training Loss	0.58620
+Training Prob Loss	0.01363
+Training Cola Loss	0.33503
+Valid. Loss	0.58620
+Valid. Matthews.	0.63380
+Training Time	0:03:31
+Validation Time	0:00:06
+Seed	37
+Layer	21
+epoch	3
+Training Loss	0.64068
+Training Prob Loss	0.01173
+Training Cola Loss	0.17765
+Valid. Loss	0.64068
+Valid. Matthews.	0.61803
+Training Time	0:03:31
+Validation Time	0:00:06
+Seed	37
+Layer	22
+epoch	1
+Training Loss	0.47282
+Training Prob Loss	0.14773
+Training Cola Loss	0.58181
+Valid. Loss	0.47282
+Valid. Matthews.	0.49851
+Training Time	0:03:24
+Validation Time	0:00:06
+Seed	1
+Layer	22
+epoch	2
+Training Loss	0.43988
+Training Prob Loss	0.01240
+Training Cola Loss	0.37013
+Valid. Loss	0.43988
+Valid. Matthews.	0.62804
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	1
+Layer	22
+epoch	3
+Training Loss	0.48311
+Training Prob Loss	0.00544
+Training Cola Loss	0.19619
+Valid. Loss	0.48311
+Valid. Matthews.	0.61532
+Training Time	0:03:28
+Validation Time	0:00:07
+Seed	1
+Layer	22
+epoch	1
+Training Loss	0.76659
+Training Prob Loss	0.14452
+Training Cola Loss	0.63706
+Valid. Loss	0.76659
+Valid. Matthews.	0.00000
+Training Time	0:03:25
+Validation Time	0:00:07
+Seed	5
+Layer	22
+epoch	2
+Training Loss	0.78274
+Training Prob Loss	0.01058
+Training Cola Loss	0.61936
+Valid. Loss	0.78274
+Valid. Matthews.	0.00000
+Training Time	0:03:30
+Validation Time	0:00:07
+Seed	5
+Layer	22
+epoch	3
+Training Loss	0.77336
+Training Prob Loss	0.00979
+Training Cola Loss	0.61525
+Valid. Loss	0.77336
+Valid. Matthews.	0.00000
+Training Time	0:03:30
+Validation Time	0:00:06
+Seed	5
+Layer	22
+epoch	1
+Training Loss	0.75998
+Training Prob Loss	0.14870
+Training Cola Loss	0.63206
+Valid. Loss	0.75998
+Valid. Matthews.	0.00000
+Training Time	0:03:21
+Validation Time	0:00:06
+Seed	9
+Layer	22
+epoch	2
+Training Loss	0.75814
+Training Prob Loss	0.01002
+Training Cola Loss	0.61582
+Valid. Loss	0.75814
+Valid. Matthews.	0.00000
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	9
+Layer	22
+epoch	3
+Training Loss	0.76259
+Training Prob Loss	0.00908
+Training Cola Loss	0.61476
+Valid. Loss	0.76259
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	9
+Layer	22
+epoch	1
+Training Loss	0.92419
+Training Prob Loss	0.13621
+Training Cola Loss	0.63217
+Valid. Loss	0.92419
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	13
+Layer	22
+epoch	2
+Training Loss	0.83483
+Training Prob Loss	0.01150
+Training Cola Loss	0.61592
+Valid. Loss	0.83483
+Valid. Matthews.	0.00000
+Training Time	0:03:29
+Validation Time	0:00:06
+Seed	13
+Layer	22
+epoch	3
+Training Loss	0.81475
+Training Prob Loss	0.00987
+Training Cola Loss	0.61302
+Valid. Loss	0.81475
+Valid. Matthews.	0.00000
+Training Time	0:03:32
+Validation Time	0:00:06
+Seed	13
+Layer	22
+epoch	1
+Training Loss	0.45263
+Training Prob Loss	0.15492
+Training Cola Loss	0.55127
+Valid. Loss	0.45263
+Valid. Matthews.	0.56335
+Training Time	0:03:28
+Validation Time	0:00:07
+Seed	17
+Layer	22
+epoch	2
+Training Loss	0.38651
+Training Prob Loss	0.01441
+Training Cola Loss	0.35267
+Valid. Loss	0.38651
+Valid. Matthews.	0.55202
+Training Time	0:03:30
+Validation Time	0:00:06
+Seed	17
+Layer	22
+epoch	3
+Training Loss	0.45683
+Training Prob Loss	0.00897
+Training Cola Loss	0.18858
+Valid. Loss	0.45683
+Valid. Matthews.	0.57758
+Training Time	0:03:31
+Validation Time	0:00:06
+Seed	17
+Layer	22
+epoch	1
+Training Loss	0.83531
+Training Prob Loss	0.13272
+Training Cola Loss	0.58447
+Valid. Loss	0.83531
+Valid. Matthews.	0.29352
+Training Time	0:03:30
+Validation Time	0:00:06
+Seed	21
+Layer	22
+epoch	2
+Training Loss	0.54433
+Training Prob Loss	0.01751
+Training Cola Loss	0.38056
+Valid. Loss	0.54433
+Valid. Matthews.	0.59142
+Training Time	0:03:32
+Validation Time	0:00:07
+Seed	21
+Layer	22
+epoch	3
+Training Loss	0.57485
+Training Prob Loss	0.01504
+Training Cola Loss	0.20204
+Valid. Loss	0.57485
+Valid. Matthews.	0.57697
+Training Time	0:03:30
+Validation Time	0:00:06
+Seed	21
+Layer	22
+epoch	1
+Training Loss	1.03565
+Training Prob Loss	0.13204
+Training Cola Loss	0.62675
+Valid. Loss	1.03565
+Valid. Matthews.	0.00000
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	25
+Layer	22
+epoch	2
+Training Loss	0.80667
+Training Prob Loss	0.01454
+Training Cola Loss	0.61414
+Valid. Loss	0.80667
+Valid. Matthews.	0.00000
+Training Time	0:03:32
+Validation Time	0:00:07
+Seed	25
+Layer	22
+epoch	3
+Training Loss	0.77427
+Training Prob Loss	0.01243
+Training Cola Loss	0.61134
+Valid. Loss	0.77427
+Valid. Matthews.	0.00000
+Training Time	0:03:30
+Validation Time	0:00:07
+Seed	25
+Layer	22
+epoch	1
+Training Loss	0.76984
+Training Prob Loss	0.18234
+Training Cola Loss	0.65964
+Valid. Loss	0.76984
+Valid. Matthews.	0.00000
+Training Time	0:03:26
+Validation Time	0:00:06
+Seed	29
+Layer	22
+epoch	2
+Training Loss	0.76457
+Training Prob Loss	0.03010
+Training Cola Loss	0.61610
+Valid. Loss	0.76457
+Valid. Matthews.	0.00000
+Training Time	0:03:31
+Validation Time	0:00:06
+Seed	29
+Layer	22
+epoch	3
+Training Loss	0.75702
+Training Prob Loss	0.02136
+Training Cola Loss	0.61663
+Valid. Loss	0.75702
+Valid. Matthews.	0.00000
+Training Time	0:03:31
+Validation Time	0:00:06
+Seed	29
+Layer	22
+epoch	1
+Training Loss	1.64100
+Training Prob Loss	0.16252
+Training Cola Loss	0.59370
+Valid. Loss	1.64100
+Valid. Matthews.	0.10289
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	33
+Layer	22
+epoch	2
+Training Loss	1.06144
+Training Prob Loss	0.02728
+Training Cola Loss	0.46355
+Valid. Loss	1.06144
+Valid. Matthews.	0.48543
+Training Time	0:03:33
+Validation Time	0:00:07
+Seed	33
+Layer	22
+epoch	3
+Training Loss	1.01827
+Training Prob Loss	0.01976
+Training Cola Loss	0.35487
+Valid. Loss	1.01827
+Valid. Matthews.	0.47273
+Training Time	0:03:31
+Validation Time	0:00:06
+Seed	33
+Layer	22
+epoch	1
+Training Loss	1.01300
+Training Prob Loss	0.14134
+Training Cola Loss	0.57077
+Valid. Loss	1.01300
+Valid. Matthews.	0.44802
+Training Time	0:03:31
+Validation Time	0:00:06
+Seed	37
+Layer	22
+epoch	2
+Training Loss	0.61654
+Training Prob Loss	0.01257
+Training Cola Loss	0.36394
+Valid. Loss	0.61654
+Valid. Matthews.	0.58964
+Training Time	0:03:33
+Validation Time	0:00:07
+Seed	37
+Layer	22
+epoch	3
+Training Loss	0.68996
+Training Prob Loss	0.01099
+Training Cola Loss	0.19272
+Valid. Loss	0.68996
+Valid. Matthews.	0.61666
+Training Time	0:03:34
+Validation Time	0:00:07
+Seed	37
+Layer	23
+epoch	1
+Training Loss	0.43400
+Training Prob Loss	0.10517
+Training Cola Loss	0.56741
+Valid. Loss	0.43400
+Valid. Matthews.	0.51270
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	1
+Layer	23
+epoch	2
+Training Loss	0.38212
+Training Prob Loss	0.00821
+Training Cola Loss	0.35891
+Valid. Loss	0.38212
+Valid. Matthews.	0.58826
+Training Time	0:03:35
+Validation Time	0:00:06
+Seed	1
+Layer	23
+epoch	3
+Training Loss	0.43186
+Training Prob Loss	0.00502
+Training Cola Loss	0.18883
+Valid. Loss	0.43186
+Valid. Matthews.	0.62271
+Training Time	0:03:31
+Validation Time	0:00:07
+Seed	1
+Layer	23
+epoch	1
+Training Loss	0.78993
+Training Prob Loss	0.11451
+Training Cola Loss	0.57695
+Valid. Loss	0.78993
+Valid. Matthews.	0.36996
+Training Time	0:03:32
+Validation Time	0:00:06
+Seed	5
+Layer	23
+epoch	2
+Training Loss	0.49447
+Training Prob Loss	0.01161
+Training Cola Loss	0.34742
+Valid. Loss	0.49447
+Valid. Matthews.	0.58361
+Training Time	0:03:33
+Validation Time	0:00:06
+Seed	5
+Layer	23
+epoch	3
+Training Loss	0.43284
+Training Prob Loss	0.00831
+Training Cola Loss	0.18551
+Valid. Loss	0.43284
+Valid. Matthews.	0.62950
+Training Time	0:03:34
+Validation Time	0:00:07
+Seed	5
+Layer	23
+epoch	1
+Training Loss	1.31997
+Training Prob Loss	0.14468
+Training Cola Loss	0.63248
+Valid. Loss	1.31997
+Valid. Matthews.	0.00000
+Training Time	0:03:30
+Validation Time	0:00:06
+Seed	9
+Layer	23
+epoch	2
+Training Loss	0.86545
+Training Prob Loss	0.01357
+Training Cola Loss	0.61304
+Valid. Loss	0.86545
+Valid. Matthews.	0.00000
+Training Time	0:03:33
+Validation Time	0:00:07
+Seed	9
+Layer	23
+epoch	3
+Training Loss	0.85193
+Training Prob Loss	0.01088
+Training Cola Loss	0.61032
+Valid. Loss	0.85193
+Valid. Matthews.	0.00000
+Training Time	0:03:35
+Validation Time	0:00:06
+Seed	9
+Layer	23
+epoch	1
+Training Loss	0.69634
+Training Prob Loss	0.09224
+Training Cola Loss	0.58500
+Valid. Loss	0.69634
+Valid. Matthews.	0.39722
+Training Time	0:03:30
+Validation Time	0:00:07
+Seed	13
+Layer	23
+epoch	2
+Training Loss	0.54931
+Training Prob Loss	0.02478
+Training Cola Loss	0.38121
+Valid. Loss	0.54931
+Valid. Matthews.	0.54383
+Training Time	0:03:35
+Validation Time	0:00:07
+Seed	13
+Layer	23
+epoch	3
+Training Loss	0.49922
+Training Prob Loss	0.00409
+Training Cola Loss	0.20339
+Valid. Loss	0.49922
+Valid. Matthews.	0.62364
+Training Time	0:03:31
+Validation Time	0:00:06
+Seed	13
+Layer	23
+epoch	1
+Training Loss	0.50446
+Training Prob Loss	0.09542
+Training Cola Loss	0.55898
+Valid. Loss	0.50446
+Valid. Matthews.	0.55826
+Training Time	0:03:29
+Validation Time	0:00:07
+Seed	17
+Layer	23
+epoch	2
+Training Loss	0.38095
+Training Prob Loss	0.00899
+Training Cola Loss	0.34512
+Valid. Loss	0.38095
+Valid. Matthews.	0.60179
+Training Time	0:03:34
+Validation Time	0:00:06
+Seed	17
+Layer	23
+epoch	3
+Training Loss	0.45352
+Training Prob Loss	0.00605
+Training Cola Loss	0.18331
+Valid. Loss	0.45352
+Valid. Matthews.	0.60162
+Training Time	0:03:31
+Validation Time	0:00:06
+Seed	17
+Layer	23
+epoch	1
+Training Loss	1.32347
+Training Prob Loss	0.10567
+Training Cola Loss	0.55374
+Valid. Loss	1.32347
+Valid. Matthews.	0.40993
+Training Time	0:03:25
+Validation Time	0:00:07
+Seed	21
+Layer	23
+epoch	2
+Training Loss	0.63899
+Training Prob Loss	0.01370
+Training Cola Loss	0.34522
+Valid. Loss	0.63899
+Valid. Matthews.	0.62447
+Training Time	0:03:30
+Validation Time	0:00:07
+Seed	21
+Layer	23
+epoch	3
+Training Loss	0.67738
+Training Prob Loss	0.01200
+Training Cola Loss	0.17976
+Valid. Loss	0.67738
+Valid. Matthews.	0.59397
+Training Time	0:03:31
+Validation Time	0:00:07
+Seed	21
+Layer	23
+epoch	1
+Training Loss	0.47472
+Training Prob Loss	0.11559
+Training Cola Loss	0.53223
+Valid. Loss	0.47472
+Valid. Matthews.	0.53514
+Training Time	0:03:30
+Validation Time	0:00:06
+Seed	25
+Layer	23
+epoch	2
+Training Loss	0.35830
+Training Prob Loss	0.00890
+Training Cola Loss	0.32742
+Valid. Loss	0.35830
+Valid. Matthews.	0.61443
+Training Time	0:03:33
+Validation Time	0:00:06
+Seed	25
+Layer	23
+epoch	3
+Training Loss	0.43374
+Training Prob Loss	0.00729
+Training Cola Loss	0.17573
+Valid. Loss	0.43374
+Valid. Matthews.	0.63162
+Training Time	0:03:33
+Validation Time	0:00:07
+Seed	25
+Layer	23
+epoch	1
+Training Loss	0.48150
+Training Prob Loss	0.09738
+Training Cola Loss	0.60717
+Valid. Loss	0.48150
+Valid. Matthews.	0.53401
+Training Time	0:03:27
+Validation Time	0:00:06
+Seed	29
+Layer	23
+epoch	2
+Training Loss	0.35566
+Training Prob Loss	0.00858
+Training Cola Loss	0.36378
+Valid. Loss	0.35566
+Valid. Matthews.	0.60708
+Training Time	0:03:35
+Validation Time	0:00:06
+Seed	29
+Layer	23
+epoch	3
+Training Loss	0.40957
+Training Prob Loss	0.00674
+Training Cola Loss	0.19115
+Valid. Loss	0.40957
+Valid. Matthews.	0.64978
+Training Time	0:03:32
+Validation Time	0:00:07
+Seed	29
+Layer	23
+epoch	1
+Training Loss	0.67895
+Training Prob Loss	0.08908
+Training Cola Loss	0.61851
+Valid. Loss	0.67895
+Valid. Matthews.	0.47310
+Training Time	0:03:28
+Validation Time	0:00:06
+Seed	33
+Layer	23
+epoch	2
+Training Loss	0.62684
+Training Prob Loss	0.01587
+Training Cola Loss	0.42649
+Valid. Loss	0.62684
+Valid. Matthews.	0.61089
+Training Time	0:03:33
+Validation Time	0:00:07
+Seed	33
+Layer	23
+epoch	3
+Training Loss	0.63997
+Training Prob Loss	0.01382
+Training Cola Loss	0.21807
+Valid. Loss	0.63997
+Valid. Matthews.	0.58984
+Training Time	0:03:33
+Validation Time	0:00:06
+Seed	33
+Layer	23
+epoch	1
+Training Loss	0.53820
+Training Prob Loss	0.12089
+Training Cola Loss	0.55142
+Valid. Loss	0.53820
+Valid. Matthews.	0.45062
+Training Time	0:03:30
+Validation Time	0:00:06
+Seed	37
+Layer	23
+epoch	2
+Training Loss	0.32106
+Training Prob Loss	0.00877
+Training Cola Loss	0.33715
+Valid. Loss	0.32106
+Valid. Matthews.	0.68451
+Training Time	0:03:33
+Validation Time	0:00:06
+Seed	37
+Layer	23
+epoch	3
+Training Loss	0.38263
+Training Prob Loss	0.00582
+Training Cola Loss	0.17524
+Valid. Loss	0.38263
+Valid. Matthews.	0.65745
+Training Time	0:03:34
+Validation Time	0:00:06
+Seed	37
+Layer	24
+epoch	1
+Training Loss	4.48281
+Training Prob Loss	0.18046
+Training Cola Loss	0.64152
+Valid. Loss	4.48281
+Valid. Matthews.	0.00000
+Training Time	0:03:30
+Validation Time	0:00:06
+Seed	1
+Layer	24
+epoch	2
+Training Loss	1.04284
+Training Prob Loss	0.02098
+Training Cola Loss	0.59778
+Valid. Loss	1.04284
+Valid. Matthews.	0.25630
+Training Time	0:03:34
+Validation Time	0:00:06
+Seed	1
+Layer	24
+epoch	3
+Training Loss	1.30888
+Training Prob Loss	0.01658
+Training Cola Loss	0.46168
+Valid. Loss	1.30888
+Valid. Matthews.	0.42630
+Training Time	0:03:35
+Validation Time	0:00:06
+Seed	1
+Layer	24
+epoch	1
+Training Loss	2.46094
+Training Prob Loss	0.14042
+Training Cola Loss	0.57735
+Valid. Loss	2.46094
+Valid. Matthews.	0.37326
+Training Time	0:03:30
+Validation Time	0:00:07
+Seed	5
+Layer	24
+epoch	2
+Training Loss	1.08225
+Training Prob Loss	0.01813
+Training Cola Loss	0.35376
+Valid. Loss	1.08225
+Valid. Matthews.	0.58888
+Training Time	0:03:33
+Validation Time	0:00:06
+Seed	5
+Layer	24
+epoch	3
+Training Loss	1.33826
+Training Prob Loss	0.01434
+Training Cola Loss	0.18936
+Valid. Loss	1.33826
+Valid. Matthews.	0.63094
+Training Time	0:03:34
+Validation Time	0:00:06
+Seed	5
+Layer	24
+epoch	1
+Training Loss	1.12051
+Training Prob Loss	0.13299
+Training Cola Loss	0.61805
+Valid. Loss	1.12051
+Valid. Matthews.	0.55726
+Training Time	0:03:34
+Validation Time	0:00:06
+Seed	9
+Layer	24
+epoch	2
+Training Loss	1.02369
+Training Prob Loss	0.01517
+Training Cola Loss	0.38470
+Valid. Loss	1.02369
+Valid. Matthews.	0.62493
+Training Time	0:03:37
+Validation Time	0:00:06
+Seed	9
+Layer	24
+epoch	3
+Training Loss	1.11792
+Training Prob Loss	0.01239
+Training Cola Loss	0.21061
+Valid. Loss	1.11792
+Valid. Matthews.	0.62921
+Training Time	0:03:33
+Validation Time	0:00:07
+Seed	9
+Layer	24
+epoch	1
+Training Loss	1.12522
+Training Prob Loss	0.12984
+Training Cola Loss	0.62867
+Valid. Loss	1.12522
+Valid. Matthews.	0.13564
+Training Time	0:03:32
+Validation Time	0:00:06
+Seed	13
+Layer	24
+epoch	2
+Training Loss	1.10568
+Training Prob Loss	0.01466
+Training Cola Loss	0.42178
+Valid. Loss	1.10568
+Valid. Matthews.	0.48646
+Training Time	0:03:40
+Validation Time	0:00:06
+Seed	13
+Layer	24
+epoch	3
+Training Loss	1.02657
+Training Prob Loss	0.01070
+Training Cola Loss	0.25401
+Valid. Loss	1.02657
+Valid. Matthews.	0.61094
+Training Time	0:03:34
+Validation Time	0:00:06
+Seed	13
+Layer	24
+epoch	1
+Training Loss	3.81016
+Training Prob Loss	0.15241
+Training Cola Loss	0.61947
+Valid. Loss	3.81016
+Valid. Matthews.	0.00000
+Training Time	0:03:30
+Validation Time	0:00:07
+Seed	17
+Layer	24
+epoch	2
+Training Loss	1.49037
+Training Prob Loss	0.01818
+Training Cola Loss	0.61097
+Valid. Loss	1.49037
+Valid. Matthews.	0.00000
+Training Time	0:03:35
+Validation Time	0:00:06
+Seed	17
+Layer	24
+epoch	3
+Training Loss	1.67983
+Training Prob Loss	0.01587
+Training Cola Loss	0.51997
+Valid. Loss	1.67983
+Valid. Matthews.	0.38367
+Training Time	0:03:31
+Validation Time	0:00:07
+Seed	17
+Layer	24
+epoch	1
+Training Loss	1.00958
+Training Prob Loss	0.12397
+Training Cola Loss	0.57595
+Valid. Loss	1.00958
+Valid. Matthews.	0.47677
+Training Time	0:03:31
+Validation Time	0:00:07
+Seed	21
+Layer	24
+epoch	2
+Training Loss	0.97235
+Training Prob Loss	0.01194
+Training Cola Loss	0.36802
+Valid. Loss	0.97235
+Valid. Matthews.	0.60034
+Training Time	0:03:33
+Validation Time	0:00:07
+Seed	21
+Layer	24
+epoch	3
+Training Loss	0.97480
+Training Prob Loss	0.00675
+Training Cola Loss	0.19053
+Valid. Loss	0.97480
+Valid. Matthews.	0.59626
+Training Time	0:03:34
+Validation Time	0:00:07
+Seed	21
+Layer	24
+epoch	1
+Training Loss	1.30502
+Training Prob Loss	0.60649
+Training Cola Loss	0.62553
+Valid. Loss	1.30502
+Valid. Matthews.	0.00000
+Training Time	0:03:31
+Validation Time	0:00:07
+Seed	25
+Layer	24
+epoch	2
+Training Loss	1.17557
+Training Prob Loss	0.02010
+Training Cola Loss	0.60713
+Valid. Loss	1.17557
+Valid. Matthews.	0.00000
+Training Time	0:03:33
+Validation Time	0:00:06
+Seed	25
+Layer	24
+epoch	3
+Training Loss	1.09260
+Training Prob Loss	0.01739
+Training Cola Loss	0.48585
+Valid. Loss	1.09260
+Valid. Matthews.	0.47345
+Training Time	0:03:33
+Validation Time	0:00:07
+Seed	25
+Layer	24
+epoch	1
+Training Loss	1.56164
+Training Prob Loss	0.13258
+Training Cola Loss	0.65319
+Valid. Loss	1.56164
+Valid. Matthews.	0.34509
+Training Time	0:03:29
+Validation Time	0:00:06
+Seed	29
+Layer	24
+epoch	2
+Training Loss	1.11560
+Training Prob Loss	0.05508
+Training Cola Loss	0.43338
+Valid. Loss	1.11560
+Valid. Matthews.	0.50408
+Training Time	0:03:32
+Validation Time	0:00:06
+Seed	29
+Layer	24
+epoch	3
+Training Loss	1.12369
+Training Prob Loss	0.01271
+Training Cola Loss	0.27814
+Valid. Loss	1.12369
+Valid. Matthews.	0.56171
+Training Time	0:03:34
+Validation Time	0:00:06
+Seed	29
+Layer	24
+epoch	1
+Training Loss	1.50048
+Training Prob Loss	0.21915
+Training Cola Loss	0.62567
+Valid. Loss	1.50048
+Valid. Matthews.	0.00000
+Training Time	0:03:34
+Validation Time	0:00:06
+Seed	33
+Layer	24
+epoch	2
+Training Loss	1.32277
+Training Prob Loss	0.01917
+Training Cola Loss	0.51510
+Valid. Loss	1.32277
+Valid. Matthews.	0.56053
+Training Time	0:03:37
+Validation Time	0:00:07
+Seed	33
+Layer	24
+epoch	3
+Training Loss	1.24756
+Training Prob Loss	0.01185
+Training Cola Loss	0.31214
+Valid. Loss	1.24756
+Valid. Matthews.	0.55322
+Training Time	0:03:37
+Validation Time	0:00:07
+Seed	33
+Layer	24
+epoch	1
+Training Loss	8.44495
+Training Prob Loss	0.15611
+Training Cola Loss	0.61445
+Valid. Loss	8.44495
+Valid. Matthews.	0.00000
+Training Time	0:03:33
+Validation Time	0:00:06
+Seed	37
+Layer	24
+epoch	2
+Training Loss	17.61623
+Training Prob Loss	0.05292
+Training Cola Loss	0.61675
+Valid. Loss	17.61623
+Valid. Matthews.	0.00000
+Training Time	0:03:38
+Validation Time	0:00:07
+Seed	37
+Layer	24
+epoch	3
+Training Loss	2.58108
+Training Prob Loss	0.04862
+Training Cola Loss	0.60662
+Valid. Loss	2.58108
+Valid. Matthews.	0.00000
+Training Time	0:03:36
+Validation Time	0:00:07
+Seed	37
